@@ -1,29 +1,6 @@
--- Database: MonsterHunterWorld
-
-DROP DATABASE IF EXISTS "monster_hunter_world";
-
-CREATE DATABASE "monster_hunter_world"
-    WITH 
-    OWNER = postgres
-    ENCODING = 'UTF8'
-    LC_COLLATE = 'English_United States.1252'
-    LC_CTYPE = 'English_United States.1252'
-    TABLESPACE = pg_default
-    CONNECTION LIMIT = -1;
-
--- SCHEMA: public
-
-CREATE SCHEMA public
-    AUTHORIZATION postgres;
-
-COMMENT ON SCHEMA public
-    IS 'standard public schema';
-
-GRANT ALL ON SCHEMA public TO postgres;
-
-GRANT ALL ON SCHEMA public TO PUBLIC;
-
 -- Table: public.elements
+
+DROP TABLE IF EXISTS public.elements
 
 CREATE TABLE public.elements
 (
@@ -38,7 +15,7 @@ TABLESPACE pg_default;
 
 -- Table: public.status_effects
 
--- DROP TABLE public.status_effects;
+DROP TABLE IF EXISTS public.status_effects;
 
 CREATE TABLE public.status_effects
 (
@@ -56,7 +33,7 @@ ALTER TABLE public.status_effects
 
 -- Table: public.weapon_types
 
--- DROP TABLE public.weapon_types;
+DROP TABLE IF EXISTS public.weapon_types;
 
 CREATE TABLE public.weapon_types
 (
@@ -74,7 +51,7 @@ ALTER TABLE public.weapon_types
 
 -- Table: public.weapons
 
--- DROP TABLE public.weapons;
+DROP TABLE IF EXISTS public.weapons;
 
 CREATE TABLE public.weapons
 (
@@ -106,7 +83,7 @@ ALTER TABLE public.weapons
 
 -- Table: public.weapons_sharpness
 
--- DROP TABLE public.weapons_sharpness;
+DROP TABLE IF EXISTS public.weapons_sharpness;
 
 CREATE TABLE public.weapons_sharpness
 (
@@ -136,7 +113,7 @@ ALTER TABLE public.weapons_sharpness
 
 -- Table: public.weapons_slots
 
--- DROP TABLE public.weapons_slots;
+DROP TABLE IF EXISTS public.weapons_slots;
 
 CREATE TABLE public.weapons_slots
 (
