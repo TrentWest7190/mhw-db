@@ -1,0 +1,84 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+265,4,Matched Slicers I,112,80,0,0,0,0,0,false,1
+266,4,Matched Slicers II,126,90,0,0,0,0,0,false,1
+267,4,Matched Slicers III,140,100,0,0,0,0,0,false,2
+268,4,Dual Slicers I,154,110,0,0,0,0,0,false,3
+269,4,Dual Slicers II,182,130,0,0,0,0,0,false,4
+270,4,Dual Slicers III,196,140,0,0,1,210,0,true,5
+271,4,Chrome Slicers I,224,160,0,0,1,240,0,true,6
+272,4,Chrome Slicers II,252,180,0,0,1,270,0,true,6
+273,4,Nergal Gouge,280,200,5,90,0,0,0,false,7
+274,4,Decimation Claws,294,210,5,120,0,0,0,false,8
+275,4,Luminous Daggers I,168,120,0,0,0,0,0,false,3
+276,4,Luminous Daggers II,196,140,0,0,0,0,0,false,4
+277,4,Dual Destroyers I,224,160,3,120,0,0,0,true,5
+278,4,Dual Destroyers II,238,170,3,150,0,0,0,true,6
+279,4,Dual Destroyers III,252,180,3,210,0,0,0,true,6
+280,4,Rookslayer Handaxes,252,180,0,0,4,120,-10,false,6
+281,4,Bazelhawk Rookslayer,280,200,0,0,4,150,-10,false,8
+282,4,Freeze Daggers I,182,130,4,60,0,0,0,false,4
+283,4,Freeze Daggers II,210,150,4,60,0,0,0,false,5
+284,4,Freeze Chain I,238,170,4,120,0,0,0,false,6
+285,4,Freeze Chain II,252,180,4,150,0,0,0,false,6
+286,4,Rending Beaks I,154,110,0,0,0,0,15,false,2
+287,4,Rending Beaks II,168,120,0,0,0,0,15,false,3
+288,4,Rending Beaks III,182,130,0,0,0,0,15,false,4
+289,4,Arcanaria I,210,150,0,0,2,90,20,true,5
+290,4,Arcanaria II,224,160,0,0,2,90,20,true,6
+291,4,Arcanaria III,238,170,0,0,2,120,20,true,6
+292,4,Sworn Rapiers,182,130,2,90,0,0,0,false,3
+293,4,Sworn Rapiers+,210,150,2,90,0,0,0,false,5
+294,4,Holy Sabers,252,180,2,120,0,0,0,false,2
+295,4,Bone Hachets I,140,100,0,0,0,0,0,false,1
+296,4,Bone Hachets II,154,110,0,0,0,0,0,false,1
+297,4,Bone Hachets III,168,120,0,0,0,0,0,false,2
+298,4,Wild Hachets I,196,140,0,0,0,0,0,false,3
+299,4,Wild Hachets II,210,150,0,0,0,0,0,false,4
+300,4,Wild Hachets III,224,160,0,0,4,120,0,true,5
+301,4,Strong Hatchets I,238,170,0,0,4,150,0,true,6
+302,4,Strong Hatchets II,266,190,0,0,4,180,0,true,6
+303,4,Blazing Hachets I,196,140,1,90,0,0,-20,false,3
+304,4,Blazing Hachets II,210,150,1,120,0,0,-20,false,4
+305,4,Anja Cyclone I,238,170,1,150,0,0,-20,false,5
+306,4,Anja Cyclone II,266,190,1,180,0,0,-20,false,6
+307,4,Anja Cyclone III,294,210,1,210,0,0,-20,false,7
+308,4,Diablos Hachets I,224,160,0,0,0,0,-10,false,4
+309,4,Diablos Hachets II,266,190,4,90,0,0,-10,true,5
+310,4,Diablos Clubs I,294,210,4,90,0,0,-10,true,6
+311,4,Diablos Clubs II,322,230,4,90,0,0,-10,true,7
+312,4,Madness Pangas I,154,110,2,90,0,0,0,false,2
+313,4,Madness Pangas II,182,130,2,90,0,0,0,false,3
+314,4,Madness Pangas III,210,150,2,120,0,0,0,false,4
+315,4,Jyura Hatchets I,238,170,2,150,0,0,0,false,5
+316,4,Jyura Hatchets II,252,180,2,180,0,0,0,false,6
+317,4,Jyura Hatchets III,266,190,2,210,0,0,0,false,6
+318,4,Lava Cyclone I,252,180,1,120,0,0,0,false,6
+319,4,Lava Cyclone II,252,180,1,150,0,0,0,false,7
+320,4,Taurus Pangas I,168,120,0,0,0,0,0,false,3
+321,4,Taurus Pangas II,182,130,0,0,0,0,0,false,4
+322,4,Dark Ripper I,196,140,0,0,3,90,0,true,5
+323,4,Dark Ripper II,210,150,0,0,3,90,0,true,6
+324,4,Dark Ripper III,224,160,0,0,3,90,0,true,6
+325,4,Pulsar Hachets I,154,110,3,60,0,0,10,false,2
+326,4,Pulsar Hachets II,168,120,3,60,0,0,10,false,3
+327,4,Pulsar Hachets III,196,140,3,60,0,0,10,false,4
+328,4,Kadachi Claws I,224,160,3,90,0,0,10,false,5
+329,4,Kadachi Claws II,238,170,3,120,0,0,10,false,6
+330,4,Kadachi Claws III,252,180,3,150,0,0,10,false,6
+331,4,Garon Hatchets I,182,130,0,0,0,0,20,false,4
+332,4,Garon Hatchets II,196,140,1,180,0,0,20,true,5
+333,4,Blood-drinker Chainblade,210,150,1,180,0,0,20,true,6
+334,4,Sin,224,160,1,180,0,0,20,true,8
+335,4,Dragonbone Twinblades I,140,100,5,120,0,0,0,false,3
+336,4,Dragonbone Twinblades II,168,120,5,120,0,0,0,false,4
+337,4,Enduring Schism,196,140,5,270,0,0,0,false,7
+338,4,Kirin Bolts,154,110,3,210,0,0,0,false,4
+339,4,Kirin Bolts+,196,140,3,240,0,0,0,false,7
+340,4,Monarch,224,160,3,270,0,0,0,false,8
+341,4,Magda Ungulae I,224,160,0,0,4,180,-20,false,5
+342,4,Magda Ungulae II,308,220,0,0,4,210,-20,false,7
+343,4,Blacksteel Twins I,140,100,5,90,0,0,0,false,5
+344,4,Blacksteel Twins II,154,110,5,120,0,0,0,false,6
+345,4,Twin Nails,238,170,4,210,0,0,0,false,7
+346,4,Fire and Ice,252,180,4,240,0,0,0,false,8
+347,4,Xeno Raqs,238,170,5,150,0,0,0,false,8

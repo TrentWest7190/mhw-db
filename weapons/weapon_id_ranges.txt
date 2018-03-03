@@ -1,0 +1,13 @@
+Hammer: 1-84
+Great Sword: 85-172
+Sword & Sheild: 173-264
+Dual Blades: 265-347
+Long Sword: 348-428
+Hunting Horn: 429-513
+Lance: 514-597
+Gunlance: 598-676
+Switch Axe: 677-755
+Charge Blade: 756-830
+Insect Glaive: 831-911
+Bow: 912-986
+Light Bowgun: 987-

@@ -1,0 +1,80 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+598,8,Iron Gunlance I,184,80,0,0,0,0,0,false,1
+599,8,Iron Gunlance II,207,90,0,0,0,0,0,false,1
+600,8,Iron Gunlance III,230,100,0,0,0,0,0,false,2
+601,8,Steel Gunlance I,253,110,0,0,0,0,0,false,3
+602,8,Steel Gunlance II,299,130,0,0,0,0,0,false,4
+603,8,Steel Gunlance III,322,140,0,0,0,0,0,false,5
+604,8,Chrome Gunlance I,368,160,0,0,4,240,0,true,6
+605,8,Chrome Gunlance II,414,180,0,0,4,270,0,true,6
+606,8,Nergal Ram,460,200,5,120,0,0,0,false,7
+607,8,Eradication Flame,483,210,5,150,0,0,0,false,8
+608,8,Pulsar Gunlance I,230,100,3,120,0,0,10,false,2
+609,8,Pulsar Gunlance II,253,110,3,150,0,0,10,false,3
+610,8,Pulsar Gunlance III,299,130,3,180,0,0,10,false,4
+611,8,Kadachi Striker,345,150,3,210,0,0,20,false,5
+612,8,Kadachi Striker+,391,170,3,240,0,0,20,false,6
+613,8,Mythic Kadachi Striker,414,180,3,270,0,0,20,false,7
+614,8,Rath Gunlance I,276,120,1,120,0,0,15,false,4
+615,8,Rath Gunlance II,322,140,1,150,0,0,15,false,5
+616,8,Red Rook,345,150,1,180,0,0,20,false,6
+617,8,Blue Rook,414,180,1,210,0,0,20,false,7
+618,8,Blue Chariot,437,190,1,240,0,0,20,false,8
+619,8,Princess Panoply,276,120,0,0,1,240,10,false,3
+620,8,Princess Panoply+,345,150,0,0,1,270,10,false,5
+621,8,Rose Burst,391,170,0,0,1,300,15,false,6
+622,8,Royal Burst,437,190,0,0,1,330,15,false,7
+623,8,Madness Gunlance I,253,110,2,210,0,0,0,false,2
+624,8,Madness Gunlance II,276,120,2,240,0,0,0,false,3
+625,8,Madness Gunlance III,299,130,2,270,0,0,0,false,4
+626,8,Jyura Blaster I,345,150,2,300,0,0,0,false,5
+627,8,Jyura Blaster II,368,160,2,330,0,0,0,false,6
+628,8,Jyura Blaster III,437,190,2,360,0,0,0,false,6
+629,8,Glacial Gunlance I,299,130,4,180,0,0,0,false,4
+630,8,Glacial Gunlance II,322,140,4,240,0,0,0,false,5
+631,8,Legiana Cannon I,345,150,4,300,0,0,0,false,6
+632,8,Legiana Cannon II,368,160,4,360,0,0,0,false,7
+633,8,Bone Gunlance I,207,90,0,0,0,0,0,false,1
+634,8,Bone Gunlance II,230,100,0,0,0,0,0,false,1
+635,8,Bone Gunlance III,253,110,0,0,0,0,0,false,2
+636,8,Bone Cannon I,276,120,0,0,0,0,0,false,3
+637,8,Bone Cannon II,322,140,0,0,0,0,0,false,4
+638,8,Bone Cannon III,368,160,3,210,0,0,0,true,5
+639,8,Great Bone Gunlance I,391,170,3,240,0,0,0,true,6
+640,8,Great Bone Gunlance II,437,190,3,270,0,0,0,true,6
+641,8,Bazel Buster I,437,190,0,0,4,180,-10,false,6
+642,8,Bazel Buster II,460,200,0,0,4,210,-10,false,7
+643,8,Jagras Gunlance I,253,110,0,0,0,0,0,false,2
+644,8,Jagras Gunlance II,276,120,0,0,0,0,0,false,3
+645,8,Jagras Gunlance III,322,140,0,0,0,0,0,false,4
+646,8,Glutton Gunlance I,345,150,0,0,2,240,0,true,5
+647,8,Glutton Gunlance II,437,190,0,0,2,270,0,true,6
+648,8,Glutton Gunlance III,437,190,0,0,2,300,0,true,6
+649,8,Girros Gunlance I,276,120,0,0,3,210,0,false,3
+650,8,Girros Gunlance II,299,130,0,0,3,270,0,false,4
+651,8,Deathfang Gunlance I,322,140,0,0,3,330,10,false,5
+652,8,Deathfang Gunlance II,345,150,0,0,3,390,10,false,6
+653,8,Deathfang Gunlance III,368,160,0,0,3,450,10,false,6
+654,8,Hazak Spysa I,437,190,5,240,0,0,0,false,7
+655,8,Hazak Spysa II,460,200,5,270,0,0,0,false,7
+656,8,Carapace Cannon I,276,120,0,0,0,0,-10,false,2
+657,8,Carapace Cannon II,299,130,0,0,0,0,-10,false,3
+658,8,Carapace Cannon III,345,150,0,0,0,0,-10,false,4
+659,8,Barroth Blaster I,391,170,0,0,3,270,-10,true,5
+660,8,Barroth Blaster II,437,190,0,0,3,330,-10,true,6
+661,8,Barroth Blaster III,460,200,0,0,3,390,-10,true,6
+662,8,Blazing Gunlance I,299,130,1,210,0,0,-20,false,3
+663,8,Blazing Gunlance II,322,140,1,240,0,0,-20,false,4
+664,8,Anja Cannon I,368,160,1,270,0,0,-20,false,5
+665,8,Anja Cannon II,414,180,1,330,0,0,-20,false,6
+666,8,Anja Cannon III,483,210,1,450,0,0,-20,false,6
+667,8,Dragonbone Gunlance I,230,100,5,360,0,0,0,false,3
+668,8,Dragonbone Gunlance II,253,110,5,390,0,0,0,false,4
+669,8,Dragonbone Gunlance III,368,160,5,420,0,0,0,false,6
+670,8,Magda Lahat,368,160,0,0,4,330,-10,false,5
+671,8,Earthshaker Magda Lahat,460,200,0,0,4,420,-10,false,8
+672,8,Blacksteel Gunlance I,230,100,5,120,0,0,0,false,5
+673,8,Blacksteel Gunlance II,253,110,5,150,0,0,0,false,6
+674,8,Icesteel Gunlance,391,170,4,210,0,0,10,false,7
+675,8,Daora's Brigia,414,180,4,240,0,0,10,false,8
+676,8,Xeno Hemta,391,170,5,180,0,0,15,false,8

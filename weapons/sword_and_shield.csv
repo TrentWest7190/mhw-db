@@ -1,0 +1,93 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+173,3,Hunter's Knife I,112,80,0,0,0,0,0,false,1
+174,3,Hunter's Knife II,126,90,0,0,0,0,0,false,1
+175,3,Hunter's Knife III,140,100,0,0,0,0,0,false,2
+176,3,Steel Knife I,168,120,0,0,0,0,0,false,3
+177,3,Steel Knife II,182,130,0,0,0,0,0,false,4
+178,3,Steel Knife III,196,140,0,0,2,120,0,true,5
+179,3,Chrome Slicer I,224,160,0,0,2,150,0,true,6
+180,3,Chrome Slicer II,252,180,0,0,2,240,0,true,6
+181,3,Nergal Jack,280,200,5,120,0,0,0,false,7
+182,3,Eradication Vanguard,294,210,5,150,0,0,0,false,8
+183,3,Flame Knife I,182,130,1,120,0,0,10,false,4
+184,3,Flame Knife II,196,140,1,120,0,0,10,false,5
+185,3,Heat Edge,224,160,1,150,0,0,20,false,6
+186,3,Corona,266,190,1,180,0,0,20,false,7
+187,3,Heavy Bang,210,150,0,0,0,0,0,false,4
+188,3,Heavy Bang+,252,180,3,270,0,0,0,true,6
+189,3,Master Bang,280,200,3,330,0,0,0,true,7
+190,3,Aqua Messer I,140,100,2,90,0,0,0,false,2
+191,3,Aqua Messer II,168,120,2,120,0,0,0,false,3
+192,3,Aqua Messer III,196,140,2,150,0,0,0,false,4
+193,3,Rogue Wave I,210,150,2,180,0,0,0,false,5
+194,3,Rogue Wave II,224,160,2,210,0,0,0,false,6
+195,3,Rogue Wave III,252,180,2,240,0,0,0,false,6
+196,3,Glacial Grace I,182,130,4,210,0,0,0,false,4
+197,3,Glacial Grace II,196,140,4,240,0,0,0,false,5
+198,3,Rimespire,210,150,4,300,0,0,0,false,6
+199,3,Legia Rimespire,224,160,4,330,0,0,0,false,8
+200,3,Princess Rapier,168,120,0,0,1,150,10,false,3
+201,3,Queen Rapier,210,150,0,0,1,180,10,false,5
+202,3,Queen Rose,238,170,0,0,1,210,10,false,6
+203,3,Royal Rose,266,190,0,0,1,240,10,false,7
+204,3,Lumu Knife I,168,120,0,0,0,0,0,false,3
+205,3,Lumu Knife II,182,130,0,0,0,0,0,false,4
+206,3,Lumu Tabar I,210,150,0,0,4,270,0,true,5
+207,3,Lumu Tabar II,224,160,0,0,4,300,0,true,6
+208,3,Lumu Tabar III,238,170,0,0,4,330,0,true,6
+209,3,Blooming Knife I,154,110,0,0,1,210,0,false,2
+210,3,Blooming Knife II,182,130,0,0,1,240,0,false,3
+211,3,Blooming Knife III,196,140,0,0,1,270,0,false,4
+212,3,Datura Blossom I,210,150,0,0,1,330,0,false,5
+213,3,Datura Blossom II,224,160,0,0,1,360,0,false,6
+214,3,Datura Blossom III,238,170,0,0,1,390,0,false,6
+215,3,Girros Knife I,168,120,0,0,3,120,10,false,3
+216,3,Girros Knife II,182,130,0,0,3,150,10,false,4
+217,3,Malady's Tabar I,196,140,0,0,3,180,20,false,5
+218,3,Malady's Tabar II,210,150,0,0,3,210,20,false,6
+219,3,Malady's Tabar III,224,160,0,0,3,240,20,false,6
+220,3,Bone Kukri I,140,100,0,0,0,0,0,false,1
+221,3,Bone Kukri II,154,110,0,0,0,0,0,false,1
+222,3,Bone Kukri III,168,120,0,0,0,0,0,false,2
+223,3,Chief Kukri I,196,140,0,0,0,0,0,false,3
+224,3,Chief Kukri II,210,150,0,0,0,0,0,false,4
+225,3,Chief Kukri III,224,160,0,0,3,180,0,true,5
+226,3,Grand Barong I,238,170,0,0,3,240,0,true,6
+227,3,Grand Barong II,266,190,0,0,3,300,0,true,6
+228,3,Spiked Edge I,182,130,0,0,2,120,0,false,3
+229,3,Spiked Edge II,196,140,0,0,2,120,0,false,4
+230,3,Baan Claw I,238,170,0,0,2,150,0,false,5
+231,3,Baan Claw II,252,180,0,0,2,180,0,false,6
+232,3,Baan Claw III,266,190,0,0,2,210,0,false,6
+233,3,Jagras Edge I,168,120,0,0,0,0,0,false,2
+234,3,Jagras Edge II,196,140,0,0,0,0,0,false,3
+235,3,Jagras Edge III,210,150,0,0,0,0,0,false,4
+236,3,Jagras Garotte I,238,170,2,300,0,0,0,true,5
+237,3,Jagras Garotte II,252,180,2,330,0,0,0,true,6
+238,3,Jagras Garotte III,266,190,2,360,0,0,0,true,6
+239,3,Thunder Edge I,182,130,3,90,0,0,0,false,3
+240,3,Thunder Edge II,210,150,3,120,0,0,0,false,4
+241,3,Lightning Nemesis I,224,160,3,150,0,0,0,false,5
+242,3,Lightning Nemesis II,252,180,3,180,0,0,0,false,6
+243,3,Lightning Nemesis III,266,190,3,210,0,0,0,false,6
+244,3,Carapace Edge I,182,130,0,0,0,0,0,false,2
+245,3,Carapace Edge II,196,140,0,0,0,0,0,false,3
+246,3,Carapace Edge III,224,160,0,0,0,0,0,false,4
+247,3,Barroth Club I,252,180,0,0,3,120,0,true,5
+248,3,Barroth Club II,266,190,0,0,3,150,0,true,6
+249,3,Barroth Club III,294,210,0,0,3,180,0,true,6
+250,3,Blazing Edge I,196,140,1,150,0,0,-20,false,3
+251,3,Blazing Edge II,224,160,1,180,0,0,-20,false,4
+252,3,Flammensucher,266,190,1,210,0,0,-20,false,5
+253,3,Gnashing Flammensucher,294,210,1,240,0,0,-20,false,7
+254,3,Dragonbone Sword I,140,100,5,270,0,0,0,false,3
+255,3,Dragonbone Sword II,154,110,5,330,0,0,0,false,4
+256,3,Dragonbone Sword III,196,140,5,450,0,0,0,false,6
+257,3,Fulminator,154,110,3,270,0,0,0,false,4
+258,3,Thunderbolt Sword I,210,150,3,300,0,0,0,false,6
+259,3,Thunderbolt Sword II,224,160,3,360,0,0,0,false,7
+260,3,Blacksteel Sword I,140,100,5,120,0,0,0,false,5
+261,3,Blacksteel Sword II,154,110,5,150,0,0,0,false,6
+262,3,Teostra's Spada,252,180,0,0,4,210,0,false,7
+263,3,Teostra's Emblem,266,190,0,0,4,240,0,false,8
+264,3,Xeno Mabura,238,170,5,270,0,0,15,false,8

@@ -1,0 +1,89 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+85,2,Buster Sword I,384,80,0,0,0,0,0,false,1
+86,2,Buster Sword II,432,90,0,0,0,0,0,false,1
+87,2,Buster Sword III,480,100,0,0,0,0,0,false,2
+88,2,Buster Blade I,576,120,0,0,0,0,0,false,3
+89,2,Buster Blade II,624,130,0,0,0,0,0,false,4
+90,2,Buster Blade III,672,140,0,0,1,240,0,true,5
+91,2,Chrome Razor I,720,150,0,0,1,330,0,true,6
+92,2,Chrome Razor II,864,180,0,0,1,420,0,true,6
+93,2,Nergal Judicator,912,190,5,120,0,0,0,false,7
+94,2,Purgation's Atrocity,1008,210,5,150,0,0,0,false,8
+95,2,Thunder Blade I,528,110,3,120,0,0,0,false,3
+96,2,Thunder Blade II,624,130,3,150,0,0,0,false,4
+97,2,Lightning Punisher I,672,140,3,180,0,0,0,false,5
+98,2,Lightning Punisher II,816,170,3,210,0,0,0,false,6
+99,2,Lightning Punisher III,912,190,3,240,0,0,0,false,6
+100,2,Freeze Blade I,576,120,4,240,0,0,0,false,4
+101,2,Freeze Blade II,624,130,4,270,0,0,0,false,5
+102,2,Frost Blaze I,720,150,4,330,0,0,0,false,6
+103,2,Frost Blaze II,768,160,4,390,0,0,0,false,6
+104,2,Jagras Blade I,528,110,0,0,0,0,0,false,2
+105,2,Jagras Blade II,576,120,0,0,0,0,0,false,3
+106,2,Jagras Blade III,672,140,0,0,0,0,0,false,4
+107,2,Jagras Hacker I,816,170,4,210,0,0,0,true,5
+108,2,Jagras Hacker II,864,180,4,240,0,0,0,true,6
+109,2,Jagras Hacker III,912,190,4,300,0,0,0,true,6
+110,2,Girros Blade I,528,110,0,0,3,210,15,false,3
+111,2,Girros Blade II,624,130,0,0,3,240,15,false,4
+112,2,Malady's Kiss I,672,140,0,0,3,270,20,false,5
+113,2,Malady's Kiss II,720,150,0,0,3,360,20,false,6
+114,2,Malady's Kiss III,768,160,0,0,3,450,20,false,6
+115,2,Lava Blaze I,768,160,1,270,0,0,0,false,6
+116,2,Lava Blaze II,864,180,1,330,0,0,0,false,7
+117,2,Blooming Blade I,528,110,0,0,1,240,0,false,2
+118,2,Blooming Blade II,576,120,0,0,1,300,0,false,3
+119,2,Blooming Blade III,624,130,0,0,1,360,0,false,4
+120,2,Datura Blaze I,720,150,0,0,1,420,0,false,5
+121,2,Datura Blaze II,768,160,0,0,1,480,0,false,6
+122,2,Datura Blaze III,816,170,0,0,1,540,0,false,6
+123,2,Flame Blade I,672,140,1,120,0,0,10,false,4
+124,2,Flame Blade II,720,150,1,150,0,0,10,false,5
+125,2,Red Wing,768,160,1,180,0,0,15,false,6
+126,2,Blue Wing,816,170,1,210,0,0,15,false,7
+127,2,Rathalos Glinsword,912,190,1,240,0,0,15,false,8
+128,2,Bone Blade I,480,100,0,0,0,0,0,false,1
+129,2,Bone Blade II,528,110,0,0,0,0,0,false,1
+130,2,Bone Blade III,576,120,0,0,0,0,0,false,2
+131,2,Bone Slasher I,672,140,0,0,0,0,0,false,3
+132,2,Bone Slasher II,720,150,0,0,0,0,0,false,4
+133,2,Bone Slasher III,768,160,4,180,0,0,0,true,5
+134,2,Giant Jawblade I,816,170,4,240,0,0,0,true,6
+135,2,Giant Jawblade II,912,190,4,300,0,0,0,false,6
+136,2,Hazak Kys,912,190,5,300,0,0,0,false,7
+137,2,Leviathan's Fury,960,200,5,300,0,0,0,false,8
+138,2,Flammenzahn,720,150,1,240,0,0,-30,false,3
+139,2,Flammenzahn+,864,180,1,300,0,0,-30,false,5
+140,2,Gnshing Flammenzahn,1008,210,1,360,0,0,-30,false,7
+141,2,Aqua Slasher I,576,120,2,120,0,0,0,false,2
+142,2,Aqua Slasher II,624,130,2,150,0,0,0,false,3
+143,2,Aqua Slasher III,672,140,2,180,0,0,0,false,4
+144,2,Water Golum I,768,160,2,240,0,0,0,false,5
+145,2,Water Golum II,816,170,2,270,0,0,0,false,6
+146,2,Water Golum III,912,190,2,300,0,0,0,false,6
+147,2,Carapace Buster I,624,130,0,0,0,0,-20,false,2
+148,2,Carapace Buster II,672,140,0,0,0,0,-20,false,3
+149,2,Carapace Buster III,720,150,0,0,0,0,-20,false,4
+150,2,Barroth Shredder I,816,170,0,0,3,270,-20,true,5
+151,2,Barroth Shredder II,864,180,0,0,3,330,-20,true,6
+152,2,Barroth Shredder III,960,200,0,0,3,390,-20,true,6
+153,2,Spiked Blade I,624,130,0,0,2,150,0,false,3
+154,2,Spiked Blade II,672,140,0,0,2,180,0,false,4
+155,2,Radobaan Slab I,768,160,0,0,2,210,0,false,5
+156,2,Radobaan Slab II,816,170,0,0,2,240,0,false,6
+157,2,Radobaan Slab III,912,190,0,0,2,270,0,false,6
+158,2,Dragonbone Cleaver I,480,100,5,270,0,0,0,false,3
+159,2,Dragonbone Cleaver II,576,120,5,330,0,0,0,false,4
+160,2,Dragonbone Cleaver III,768,160,5,420,0,0,0,false,6
+161,2,Thundersword,528,110,3,390,0,0,0,false,4
+162,2,Kirin Thundersword,720,150,3,480,0,0,0,false,7
+163,2,King Thundersword,768,160,3,540,0,0,0,false,8
+164,2,Magda Potestas I,768,160,0,0,4,330,-20,false,5
+165,2,Magda Potestas II,1056,220,0,0,4,420,-20,false,7
+166,2,Blacksteel Chopper I,480,100,5,90,0,0,10,false,5
+167,2,Blacksteel Chopper II,576,120,5,120,0,0,10,false,6
+168,2,Icesteel Edge ,816,170,4,210,0,0,0,false,7
+169,2,Daora's Decimator,864,180,4,270,0,0,0,false,8
+170,2,Xeno Maliq,816,170,5,210,0,0,15,false,8
+171,2,Wyvern Jawblade,864,180,0,0,4,240,0,true,6
+172,2,Great Wyvern Jawblade,960,200,0,0,4,330,0,true,8

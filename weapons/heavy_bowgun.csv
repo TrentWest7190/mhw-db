@@ -1,0 +1,80 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+1071,14,Iron Assault I,150,100,0,0,0,0,0,false,1
+1072,14,Iron Assault II,165,110,0,0,0,0,0,false,1
+1073,14,Iron Assault III,180,120,0,0,0,0,0,false,2
+1074,14,Steel Assault I,195,130,0,0,0,0,0,false,3
+1075,14,Steel Assault II,210,140,0,0,0,0,0,false,4
+1076,14,Steel Assault III,225,150,0,0,0,0,0,false,5
+1077,14,Chrome Assault I,240,160,0,0,0,0,0,false,6
+1078,14,Chrome Assault II,255,170,0,0,0,0,0,false,6
+1079,14,Nergal Roar,270,180,0,0,0,0,0,false,7
+1080,14,Destruction's Fusillade,285,190,0,0,0,0,0,false,8
+1081,14,Aqua Assault I,180,120,0,0,0,0,0,false,2
+1082,14,Aqua Assault II,195,130,0,0,0,0,0,false,3
+1083,14,Aqua Assault III,210,140,0,0,0,0,0,false,4
+1084,14,Water Cannon I,225,150,0,0,0,0,0,false,5
+1085,14,Water Cannon II,240,160,0,0,0,0,0,false,6
+1086,14,Water Cannon III,255,170,0,0,0,0,0,false,6
+1087,14,Luminous Assault I,195,130,0,0,0,0,0,false,3
+1088,14,Luminous Assault II,210,140,0,0,0,0,0,false,4
+1089,14,Arma Destroyer I,225,150,0,0,0,0,0,false,4
+1090,14,Arma Destroyer II,240,160,0,0,0,0,0,false,6
+1091,14,Arma Destroyer III,255,170,0,0,0,0,0,false,6
+1092,14,Shattercryst,210,140,0,0,0,0,0,false,4
+1093,14,Shattercryst+,240,160,0,0,0,0,0,false,6
+1094,14,Legia Shattercryst,255,170,0,0,0,0,0,false,7
+1095,14,Jagras Assault I,180,120,0,0,0,0,0,false,2
+1096,14,Jagras Assault II,195,130,0,0,0,0,0,false,3
+1097,14,Jagras Assault III,210,140,0,0,0,0,0,false,4
+1098,14,Jagras Cannon I,240,160,0,0,0,0,0,false,5
+1099,14,Jagras Cannon II,255,170,0,0,0,0,0,false,6
+1100,14,Jagras Cannon III,270,180,0,0,0,0,0,false,7
+1101,14,Blazing Assault I,210,140,0,0,0,0,-20,false,3
+1102,14,Blazing Assault II,225,150,0,0,0,0,-20,false,4
+1103,14,Flammenkanone,255,170,0,0,0,0,-20,false,5
+1104,14,Gnashing Flammenkanone,300,200,0,0,0,0,-20,false,7
+1105,14,Bone Shooter I,150,100,0,0,0,0,0,false,1
+1106,14,Bone Shooter II,165,110,0,0,0,0,0,false,1
+1107,14,Bone Shooter III,195,130,0,0,0,0,0,false,2
+1108,14,Heavy Shooter I,210,140,0,0,0,0,0,false,3
+1109,14,Heavy Shooter II,225,150,0,0,0,0,0,false,4
+1110,14,Heavy Shooter III,240,160,0,0,0,0,0,false,5
+1111,14,Power Shooter I,255,170,0,0,0,0,0,false,6
+1112,14,Power Shooter II,270,180,0,0,0,0,0,false,6
+1113,14,Diablos Shooter I,240,160,0,0,0,0,-20,false,4
+1114,14,Diablos Shooter II,270,180,0,0,0,0,-20,false,5
+1115,14,Dual Threat,300,200,0,0,0,0,-20,false,6
+1116,14,Nero's Blazooka,315,210,0,0,0,0,-20,false,7
+1117,14,Griffon Blazooka,330,220,0,0,0,0,-20,false,8
+1118,14,Blooming Shooter I,180,120,0,0,0,0,0,false,2
+1119,14,Blooming Shooter II,195,130,0,0,0,0,0,false,3
+1120,14,Blooming Shooter III,210,140,0,0,0,0,0,false,4
+1121,14,Datura Blaster I,225,150,0,0,0,0,0,false,5
+1122,14,Datura Blaster II,240,160,0,0,0,0,0,false,6
+1123,14,Datura Blaster III,255,170,0,0,0,0,0,false,6
+1124,14,Spiked Shooter I,195,130,0,0,0,0,0,false,3
+1125,14,Spiked Shooter II,210,140,0,0,0,0,0,false,4
+1126,14,Baan Roar I,225,150,0,0,0,0,0,false,5
+1127,14,Baan Roar II,255,170,0,0,0,0,0,false,6
+1128,14,Baan Roar III,270,180,0,0,0,0,0,false,6
+1129,14,Gama Cannon I,240,160,0,0,0,0,0,false,6
+1130,14,Gama Cannon II,255,170,0,0,0,0,0,false,7
+1131,14,Pulsar Shooter I,180,120,0,0,0,0,10,false,2
+1132,14,Pulsar Shooter II,195,130,0,0,0,0,0,false,3
+1133,14,Pulsar Shooter III,210,140,0,0,0,0,0,false,4
+1134,14,Kadachi Lion I,225,150,0,0,0,0,15,false,5
+1135,14,Kadachi Lion II,240,160,0,0,0,0,15,false,6
+1136,14,Kadachi Lion III,255,170,0,0,0,0,15,false,6
+1137,14,Dragonbone Cannon I,150,100,0,0,0,0,0,false,3
+1138,14,Dragonbone Cannon II,210,140,0,0,0,0,0,false,4
+1139,14,Dragonbone Cannon III,255,170,0,0,0,0,0,false,6
+1140,14,Quickcaster,195,130,0,0,0,0,0,false,4
+1141,14,Quickcaster+,240,160,0,0,0,0,0,false,7
+1142,14,Quickquiver,255,170,0,0,0,0,0,false,8
+1143,14,Magda Gemitus I,240,160,0,0,0,0,-20,false,5
+1144,14,Magda Gemitus II,315,210,0,0,0,0,-20,false,7
+1145,14,Blacksteel Cannon I,150,100,0,0,0,0,0,false,5
+1146,14,Blacksteel Cannon II,165,110,0,0,0,0,0,false,6
+1147,14,Teostra's Artillery,255,170,0,0,0,0,0,false,7
+1148,14,Teostra's Flames,270,180,0,0,0,0,0,false,8
+1149,14,Xeno Jiiqa,255,170,0,0,0,0,0,false,8

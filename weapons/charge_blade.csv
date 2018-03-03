@@ -1,0 +1,76 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+756,10,Proto Commision Axe I,288,80,0,0,0,0,0,false,1
+757,10,Proto Commision Axe II,324,90,0,0,0,0,0,false,1
+758,10,Proto Commision Axe III,360,100,0,0,0,0,0,false,2
+759,10,Elite Commision Axe I,396,110,0,0,0,0,0,false,3
+760,10,Elite Commision Axe II,468,130,0,0,0,0,0,false,4
+761,10,Elite Commision Axe III,504,140,3,120,0,0,0,true,5
+762,10,Chrome Guardian I,576,160,3,150,0,0,0,true,6
+763,10,Chrome Guardian II,648,180,3,270,0,0,0,true,6
+764,10,Nergal Lacerator,720,200,5,120,0,0,0,false,7
+765,10,Devastation's Thorns,756,210,5,150,0,0,0,false,8
+766,10,Rathsblade I,432,120,1,150,0,0,10,false,4
+767,10,Rathsblade II,576,160,1,180,0,0,10,false,5
+768,10,Axelion Blade,612,170,1,210,0,0,20,false,6
+769,10,Halberion Blade,684,190,1,240,0,0,20,false,7
+770,10,Mudslide Blade I,396,110,2,120,0,0,0,false,3
+771,10,Mudslide Blade II,432,120,2,150,0,0,0,false,3
+772,10,Mudslide Blade III,504,140,2,180,0,0,0,false,5
+773,10,Jyura Depth I,576,160,2,210,0,0,0,false,5
+774,10,Jyura Depth II,648,180,2,240,0,0,0,false,6
+775,10,Jyura Depth III,684,190,2,270,0,0,0,false,6
+776,10,Everfrost Blade I,504,140,4,150,0,0,0,false,4
+777,10,Everfrost Blade II,540,150,4,180,0,0,0,false,5
+778,10,Gigafrost I,576,160,4,210,0,0,0,false,6
+779,10,Gigafrost II,612,170,4,240,0,0,0,false,6
+780,10,Dear Lutemis,468,130,0,0,1,240,0,false,3
+781,10,Dear Lutemia,540,150,0,0,1,270,0,false,5
+782,10,Dear Hecatel,612,170,0,0,1,300,0,false,6
+783,10,Dear Hecatelia,684,190,0,0,1,330,0,false,7
+784,10,Bone Strongarm I,324,90,0,0,0,0,0,false,1
+785,10,Bone Strongarm II,360,100,0,0,0,0,0,false,1
+786,10,Bone Strongarm III,396,110,0,0,0,0,0,false,2
+787,10,Hard Bone Strongarm I,432,120,0,0,0,0,0,false,3
+788,10,Hard Bone Strongarm II,504,140,0,0,0,0,0,false,4
+789,10,Hard Bone Strongarm III,576,160,0,0,4,180,0,true,5
+790,10,Mighty Strongarm I,612,170,0,0,4,210,0,true,6
+791,10,Mighty Strongarm II,684,190,0,0,4,240,0,true,6
+792,10,Diablos Wall I,612,170,0,0,0,0,-30,false,4
+793,10,Diablos Wall II,684,190,4,90,0,0,-30,true,5
+794,10,Diablos Tyrannis I,756,210,4,120,0,0,-30,true,6
+795,10,Diablos Tyrannis II,828,230,4,180,0,0,-30,true,7
+796,10,Jagras Strongarm I,396,110,0,0,0,0,0,false,2
+797,10,Jagras Strongarm II,432,120,0,0,0,0,0,false,3
+798,10,Jagras Strongarm III,468,130,0,0,0,0,0,false,4
+799,10,Jagras Escudo I,540,150,0,0,2,120,0,true,5
+800,10,Jagras Escudo II,648,180,0,0,2,150,0,true,6
+801,10,Jagras Escudo III,684,190,0,0,2,180,0,true,6
+802,10,Gama Silt I,576,160,0,0,4,150,0,false,6
+803,10,Gama Silt II,612,170,0,0,4,180,0,false,7
+804,10,Girros Strongarm I,432,120,0,0,3,180,15,false,3
+805,10,Girros Strongarm II,468,130,0,0,3,210,15,false,4
+806,10,Girros Nadja I,504,140,0,0,3,240,20,false,5
+807,10,Girros Nadja II,540,150,0,0,3,270,20,false,6
+808,10,Girros Nadja III,576,160,0,0,3,300,20,false,6
+809,10,Hazak Aspida I,648,180,5,210,0,0,0,false,7
+810,10,Hazak Aspida II,684,190,5,270,0,0,0,false,7
+811,10,Pulsar Strongarm I,396,110,3,90,0,0,10,false,2
+812,10,Pulsar Strongarm II,432,120,3,120,0,0,10,false,3
+813,10,Pulsar Strongarm III,468,130,3,120,0,0,10,false,4
+814,10,Kadachi Kaina I,504,140,3,150,0,0,15,false,5
+815,10,Kadachi Kaina II,576,160,3,180,0,0,15,false,6
+816,10,Kadachi Kaina III,648,180,3,210,0,0,15,false,6
+817,10,Garon Strongarm I,468,130,0,0,0,0,20,false,4
+818,10,Garon Strongarm II,504,140,1,120,0,0,20,true,5
+819,10,Hate's Undying Flame,540,150,1,150,0,0,25,true,6
+820,10,Odium,576,160,1,180,0,0,25,true,8
+821,10,Dragonbone Cutter I,360,100,5,270,0,0,0,false,3
+822,10,Dragonbone Cutter II,396,110,5,300,0,0,0,false,4
+823,10,Dragonbone Cutter III,576,160,5,360,0,0,0,false,6
+824,10,Magda Manus,576,160,0,0,4,180,-10,false,5
+825,10,Avenging Magda Manus,756,210,0,0,4,210,-10,false,8
+826,10,Blacksteel Charger I,360,100,5,120,0,0,0,false,5
+827,10,Blacksteel Charger II,396,110,5,150,0,0,0,false,6
+828,10,Daora's Casca,612,170,4,150,0,0,10,false,7
+829,10,Daora's Thwartoise,648,180,4,180,0,0,15,false,8
+830,10,Xeno Ra'atz,648,180,5,180,0,0,15,false,8

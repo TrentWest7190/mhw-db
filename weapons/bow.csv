@@ -1,0 +1,76 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+912,12,Iron Bow I,96,80,0,0,0,0,0,false,1
+913,12,Iron Bow II,108,90,0,0,0,0,0,false,1
+914,12,Iron Bow III,120,100,0,0,0,0,0,false,2
+915,12,Steel Bow I,132,110,0,0,0,0,0,false,3
+916,12,Steel Bow II,156,130,0,0,0,0,0,false,4
+917,12,Steel Bow III,168,140,3,90,0,0,0,true,5
+918,12,Alloy Bow I,180,150,3,120,0,0,0,true,6
+919,12,Alloy Bow II,204,170,3,150,0,0,0,true,6
+920,12,Nergal Whisper,228,190,5,120,0,0,0,false,7
+921,12,Doom's Shaft,240,200,5,150,0,0,0,false,8
+922,12,Kulu Arrow I,120,100,0,0,0,0,15,false,2
+923,12,Kulu Arrow II,132,110,0,0,0,0,15,false,3
+924,12,Kulu Arrow III,156,130,0,0,0,0,15,false,4
+925,12,Archer's Dance I,180,150,0,0,4,210,20,true,5
+926,12,Archer's Dance II,192,160,0,0,4,240,20,true,6
+927,12,Archer's Dance III,204,170,0,0,4,270,20,true,6
+928,12,Brazencord,204,170,1,120,0,0,0,false,6
+929,12,Gigacles,228,190,1,150,0,0,0,false,8
+930,12,Princess Arrow I,132,110,0,0,0,0,10,false,3
+931,12,Princess Arrow II,192,160,5,180,0,0,10,true,5
+932,12,Princess Arrow III,216,180,5,240,0,0,10,true,6
+933,12,Rathslinger I,144,120,1,150,0,0,15,false,4
+934,12,Rathslinger II,204,170,1,210,0,0,15,false,6
+935,12,Rathslinger III,216,180,1,240,0,0,15,false,7
+936,12,Aqua Arrow I,120,100,2,90,0,0,0,false,2
+937,12,Aqua Arrow II,132,110,2,120,0,0,0,false,3
+938,12,Aqua Arrow III,144,120,2,150,0,0,0,false,4
+939,12,Water Shot I,168,140,2,180,0,0,0,false,5
+940,12,Water Shot II,180,150,2,210,0,0,0,false,6
+941,12,Water Shot III,204,170,2,240,0,0,0,false,6
+942,12,Glacial Arrow I,144,120,4,270,0,0,0,false,4
+943,12,Glacial Arrow II,156,130,4,330,0,0,0,false,5
+944,12,Snowfletcher,168,140,4,360,0,0,0,false,6
+945,12,Legia Snowfletcher,180,150,4,390,0,0,0,false,8
+946,12,Hunter's Bow I,120,100,0,0,0,0,0,false,1
+947,12,Hunter's Bow II,132,110,0,0,0,0,0,false,1
+948,12,Hunter's Bow III,144,120,0,0,0,0,0,false,2
+949,12,Hunter's Stoutbow I,156,130,0,0,0,0,0,false,3
+950,12,Hunter's Stoutbow II,168,140,0,0,0,0,0,false,4
+951,12,Hunter's Stoutbow III,180,150,2,240,0,0,0,true,5
+952,12,Hunter's Proudbow I,192,160,2,300,0,0,0,true,6
+953,12,Hunter's Proudbow II,216,180,2,360,0,0,0,true,6
+954,12,Hazak Velos I,216,180,5,240,0,0,0,false,7
+955,12,Hazak Velos II,228,190,5,270,0,0,0,false,7
+956,12,Diablos Bow I,192,160,0,0,0,0,-30,false,4
+957,12,Diablos Bow II,216,180,4,60,0,0,-30,true,5
+958,12,Diablos Coilbender,240,200,4,90,0,0,-30,true,7
+959,12,Galebender,252,210,4,120,0,0,-30,true,7
+960,12,Cera Coilbender,264,220,4,150,0,0,-30,true,8
+961,12,Blooming Arch I,144,120,0,0,0,0,0,false,2
+962,12,Blooming Arch II,156,130,0,0,0,0,0,false,3
+963,12,Blooming Arch III,168,140,0,0,0,0,0,false,4
+964,12,Datura String I,180,150,0,0,4,180,0,true,5
+965,12,Datura String II,192,160,0,0,4,210,0,true,6
+966,12,Datura String III,204,170,0,0,4,240,0,true,6
+967,12,Blazing Bow I,156,130,1,210,0,0,-20,false,3
+968,12,Blazing Bow II,168,140,1,270,0,0,-20,false,4
+969,12,Anja Arch I,192,160,1,330,0,0,-20,false,5
+970,12,Anja Arch II,216,180,1,360,0,0,-20,false,6
+971,12,Anja Arch III,240,200,1,390,0,0,-20,false,6
+972,12,Pulsar Bow I,144,120,3,150,0,0,10,false,2
+973,12,Pulsar Bow II,156,130,3,180,0,0,10,false,3
+974,12,Pulsar Bow III,168,140,3,210,0,0,10,false,4
+975,12,Kadachi Strikebow,180,150,3,250,0,0,15,false,5
+976,12,Flying Kadachi Strikebow,204,170,3,270,0,0,15,false,7
+977,12,Dragonbone Bow I,120,100,5,300,0,0,0,false,3
+978,12,Dragonbone Bow II,132,110,5,360,0,0,0,false,4
+979,12,Dragonbone Bow III,180,150,5,420,0,0,0,false,6
+980,12,Blacksteel Bow I,120,100,5,120,0,0,0,false,5
+981,12,Blacksteel Bow II,132,110,5,150,0,0,0,false,6
+982,12,Icesteel Bow ,192,160,4,210,0,0,0,false,7
+983,12,Daora's Sagittarii,204,170,4,240,0,0,0,false,8
+984,12,Xeno Metora,204,170,5,180,0,0,15,false,8
+985,12,Cross Hunter's Bow,216,180,0,0,4,120,0,false,6
+986,12,Great Hunter's Bow,228,190,0,0,4,150,0,false,8

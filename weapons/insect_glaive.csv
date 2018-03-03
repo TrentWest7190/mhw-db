@@ -1,0 +1,82 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+831,11,Iron Blade I,248,80,0,0,0,0,0,false,1
+832,11,Iron Blade II,279,90,0,0,0,0,0,false,1
+833,11,Iron Blade III,310,100,0,0,0,0,0,false,2
+834,11,Steel Blade I,341,110,0,0,0,0,0,false,3
+835,11,Steel Blade II,403,130,0,0,0,0,0,false,4
+836,11,Steel Blade III,434,140,0,0,4,210,0,true,5
+837,11,Chrome Blade I,496,160,0,0,4,240,0,true,6
+838,11,Chrome Blade II,558,180,0,0,4,270,0,true,6
+839,11,Nergal Reaper,620,200,5,120,0,0,0,false,7
+840,11,Catastrophe's Light,651,210,5,150,0,0,0,false,8
+841,11,Flame Glaive I,372,120,1,90,0,0,10,false,4
+842,11,Flame Glaive II,465,150,1,120,0,0,10,false,5
+843,11,Rathmaul,527,170,1,150,0,0,20,false,6
+844,11,Firedance Rathmaul,589,190,1,180,0,0,20,false,7
+845,11,Kulu Blade I,310,100,0,0,0,0,10,false,2
+846,11,Kulu Blade II,341,110,0,0,0,0,10,false,3
+847,11,Kulu Blade III,434,140,0,0,0,0,10,false,4
+848,11,Ya-Ku Wrath I,465,150,0,0,2,150,20,true,5
+849,11,Ya-Ku Wrath II,496,160,0,0,2,180,20,true,6
+850,11,Ya-Ku Wrath III,527,170,0,0,2,210,20,true,6
+851,11,Luminous Blade I,372,120,0,0,0,0,0,false,3
+852,11,Luminous Blade II,434,140,0,0,0,0,0,false,4
+853,11,Destroyer Bo I,496,160,3,240,0,0,0,false,5
+854,11,Destroyer Bo II,527,170,3,270,0,0,0,false,6
+855,11,Destroyer Bo III,558,180,3,300,0,0,0,false,6
+856,11,Frost Blade I,434,140,4,150,0,0,0,false,4
+857,11,Frost Blade II,465,150,4,180,0,0,0,false,4
+858,11,Freeze Gale I,496,160,4,210,0,0,0,false,6
+859,11,Freeze Gale II,527,170,4,240,0,0,0,false,6
+860,11,Blooming Glaive I,310,100,0,0,1,240,0,false,2
+861,11,Blooming Glaive II,341,110,0,0,1,270,0,false,3
+862,11,Blooming Glaive III,403,130,0,0,1,300,0,false,4
+863,11,Datura Blade I,465,150,0,0,1,330,0,false,5
+864,11,Datura Blade II,496,160,0,0,1,360,0,false,6
+865,11,Datura Blade III,527,170,0,0,1,390,0,false,6
+866,11,Gama Cane I,496,160,0,0,4,120,0,false,6
+867,11,Gama Cane II,527,170,0,0,4,150,0,false,7
+868,11,Bone Rod I,279,90,0,0,0,0,0,false,1
+869,11,Bone Rod II,310,100,0,0,0,0,0,false,1
+870,11,Bone Rod III,341,110,0,0,0,0,0,false,2
+871,11,Hard Bone Rod I,434,140,0,0,0,0,0,false,3
+872,11,Hard Bone Rod II,465,150,0,0,0,0,0,false,4
+873,11,Hard Bone Rod III,496,160,0,0,3,180,0,true,5
+874,11,Aerial Rod I,527,170,0,0,3,210,0,true,6
+875,11,Aerial Rod II,589,190,0,0,3,210,0,true,6
+876,11,Hazak Entoma I,589,190,5,150,0,0,0,false,7
+877,11,Hazak Entoma II,620,200,5,180,0,0,0,false,7
+878,11,Flammenkaefer,403,130,1,210,0,0,-20,false,3
+879,11,Flammenkaefer+,558,180,1,240,0,0,-20,false,5
+880,11,Gnashing Flammenkaefer,651,210,1,270,0,0,-20,false,7
+881,11,Aqua Rod I,341,110,2,60,0,0,0,false,2
+882,11,Aqua Rod II,372,120,2,90,0,0,0,false,3
+883,11,Aqua Rod III,434,140,2,120,0,0,0,false,4
+884,11,Water Glaive I,465,150,2,150,0,0,0,false,5
+885,11,Water Glaive II,527,170,2,180,0,0,0,false,6
+886,11,Water Glaive III,589,190,2,210,0,0,0,false,6
+887,11,Diablos Rod I,496,160,0,0,0,0,-30,false,4
+888,11,Diablos Rod II,620,200,4,120,0,0,-30,true,5
+889,11,Tyrannis Glaive I,682,220,4,150,0,0,-30,true,6
+890,11,Tyrannis Glaive II,713,230,4,180,0,0,-30,true,7
+891,11,Pulsar Rod I,341,110,3,90,0,0,10,false,2
+892,11,Pulsar Rod II,372,120,3,120,0,0,10,false,3
+893,11,Pulsar Rod III,434,140,3,150,0,0,10,false,4
+894,11,Kadachi Pillar I,465,150,3,180,0,0,10,false,5
+895,11,Kadachi Pillar II,527,170,3,210,0,0,10,false,6
+896,11,Kadachi Pillar III,558,180,3,240,0,0,10,false,6
+897,11,Garon Rod I,403,130,0,0,0,0,10,false,4
+898,11,Garon Rod II,434,140,1,90,0,0,10,true,5
+899,11,Temptation's Trident,465,150,1,120,0,0,20,true,6
+900,11,Vice,496,160,1,150,0,0,20,true,8
+901,11,Dragonbone Glaive I,310,100,5,300,0,0,0,false,3
+902,11,Dragonbone Glaive II,341,110,5,330,0,0,0,false,4
+903,11,Dragonbone Glaive III,496,160,5,390,0,0,0,false,6
+904,11,Indigo Flash,341,110,3,300,0,0,0,false,4
+905,11,Azure Bolt,434,140,3,330,0,0,0,false,7
+906,11,Verdant Levin,496,160,3,360,0,0,0,false,8
+907,11,Blacksteel Glaive I,310,100,5,60,0,0,0,false,5
+908,11,Blacksteel Glaive II,341,110,5,90,0,0,0,false,6
+909,11,Daora's Entom,527,170,4,150,0,0,10,false,7
+910,11,Daora's Tethidine,558,180,4,180,0,0,10,false,8
+911,11,Xeno Shmaena,558,180,5,120,0,0,15,false,8

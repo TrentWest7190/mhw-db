@@ -1,0 +1,85 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+987,13,Chain Blitz I,130,100,0,0,0,0,0,false,1
+988,13,Chain Blitz II,143,110,0,0,0,0,0,false,1
+989,13,Chain Blitz III,156,120,0,0,0,0,0,false,2
+990,13,High Chain Blitz I,169,130,0,0,0,0,0,false,3
+991,13,High Chain Blitz II,182,140,0,0,0,0,0,false,4
+992,13,High Chain Blitz III,195,150,0,0,0,0,0,false,5
+993,13,Cross Blitz I,208,160,0,0,0,0,0,false,6
+994,13,Cross Blitz II,234,180,0,0,0,0,0,false,6
+995,13,Nergal Spitter,247,190,0,0,0,0,0,false,7
+996,13,Cataclysm's Trigger,260,200,0,0,0,0,0,false,8
+997,13,Lumu Blitz I,169,130,0,0,0,0,10,false,3
+998,13,Lumu Blitz II,182,140,0,0,0,0,10,false,4
+999,13,Lumu Typhon I,195,150,0,0,0,0,15,false,5
+1000,13,Lumu Typhon II,208,160,0,0,0,0,15,false,6
+1001,13,Lumu Typhon III,221,170,0,0,0,0,15,false,7
+1002,13,Bazel Typhoon I,247,190,0,0,0,0,-10,false,6
+1003,13,Bazel Typhoon II,260,200,0,0,0,0,-10,false,7
+1004,13,Jagras Blitz I,169,130,0,0,0,0,0,false,2
+1005,13,Jagras Blitz II,182,140,0,0,0,0,0,false,3
+1006,13,Jagras Blitz III,195,150,0,0,0,0,0,false,4
+1007,13,Jagras Fire I,208,160,0,0,0,0,0,false,5
+1008,13,Jagras Fire II,234,180,0,0,0,0,0,false,6
+1009,13,Jagras Fire III,247,190,0,0,0,0,0,false,6
+1010,13,Flame Blitz I,195,150,0,0,0,0,10,false,4
+1011,13,Flame Blitz II,208,160,0,0,0,0,10,false,5
+1012,13,Rathbuster I,221,170,0,0,0,0,20,false,6
+1013,13,Rathbuster II,247,190,0,0,0,0,20,false,7
+1014,13,Thunder Blitz I,182,140,0,0,0,0,0,false,3
+1015,13,Thunder Blitz II,195,150,0,0,0,0,0,false,4
+1016,13,Lightning Blitz I,208,160,0,0,0,0,0,false,5
+1017,13,Lightning Blitz II,221,170,0,0,0,0,0,false,6
+1018,13,Lightning Blitz III,234,180,0,0,0,0,0,false,6
+1019,13,Snow Blitz I,182,140,0,0,0,0,0,false,4
+1020,13,Snow Blitz II,195,150,0,0,0,0,0,false,5
+1021,13,Frost Blitz I,221,170,0,0,0,0,0,false,6
+1022,13,Frost Blitz II,247,190,0,0,0,0,0,false,6
+1023,13,Hunter's Rifle I,143,110,0,0,0,0,0,false,1
+1024,13,Hunter's Rifle II,156,120,0,0,0,0,0,false,1
+1025,13,Hunter's Rifle III,169,130,0,0,0,0,0,false,2
+1026,13,Power Rifle I,182,140,0,0,0,0,0,false,3
+1027,13,Power Rifle II,195,150,0,0,0,0,0,false,4
+1028,13,Power Rifle III,208,160,0,0,0,0,0,false,5
+1029,13,Sniper Shot I,221,170,0,0,0,0,0,false,6
+1030,13,Sniper Shot II,247,190,0,0,0,0,0,false,6
+1031,13,Hazak Ereipia,247,190,0,0,0,0,0,false,7
+1032,13,Gulgoleth's Wail,260,200,0,0,0,0,0,false,8
+1033,13,Blazing Rifle I,195,150,0,0,0,0,-30,false,3
+1034,13,Blazing Rifle II,221,170,0,0,0,0,-30,false,4
+1035,13,Anja Buster I,234,180,0,0,0,0,-30,false,5
+1036,13,Anja Buster II,260,200,0,0,0,0,-30,false,6
+1037,13,Anja Buster III,273,210,0,0,0,0,-30,false,6
+1038,13,Madness Rifle I,169,130,0,0,0,0,0,false,2
+1039,13,Madness Rifle II,182,140,0,0,0,0,0,false,3
+1040,13,Madness Rifle III,195,150,0,0,0,0,0,false,4
+1041,13,Jyura Bullet I,208,160,0,0,0,0,0,false,5
+1042,13,Jyura Bullet II,234,180,0,0,0,0,0,false,6
+1043,13,Jyura Bullet III,247,190,0,0,0,0,0,false,6
+1044,13,Lava Bullet I,221,170,0,0,0,0,0,false,6
+1045,13,Lava Bullet II,234,180,0,0,0,0,0,false,7
+1046,13,Carapace Rifle I,169,130,0,0,0,0,-20,false,2
+1047,13,Carapace Rifle II,182,140,0,0,0,0,-20,false,3
+1048,13,Carapace Rifle III,208,160,0,0,0,0,-20,false,4
+1049,13,Barroth Shot I,234,180,0,0,0,0,-20,false,5
+1050,13,Barroth Shot II,247,190,0,0,0,0,-20,false,6
+1051,13,Barroth Shot III,260,200,0,0,0,0,-20,false,6
+1052,13,Garon Rifle I,195,150,0,0,0,0,15,false,4
+1053,13,Garon Rifle II,208,160,0,0,0,0,15,false,5
+1054,13,Fate's Ember,221,170,0,0,0,0,30,false,6
+1055,13,Karma,234,180,0,0,0,0,30,false,8
+1056,13,Dragonbone Bowgun I,130,100,0,0,0,0,0,false,3
+1057,13,Dragonbone Bowgun II,143,110,0,0,0,0,0,false,4
+1058,13,Dragonbone Bowgun III,208,160,0,0,0,0,0,false,6
+1059,13,Onigashima,208,160,0,0,0,0,0,false,7
+1060,13,Dai-Onigashima,221,170,0,0,0,0,0,false,8
+1061,13,Mythical Horn,143,110,0,0,0,0,0,false,4
+1062,13,Mythical Horn+,182,140,0,0,0,0,0,false,7
+1063,13,Mythical Three-Horn,208,160,0,0,0,0,0,false,8
+1064,13,Blacksteel Crossbow I,130,100,0,0,0,0,0,false,5
+1065,13,Blacksteel Crossbow II,143,110,0,0,0,0,0,false,6
+1066,13,Icesteel Wasp,221,170,0,0,0,0,10,false,7
+1067,13,Daora's Hornet,234,180,0,0,0,0,10,false,8
+1068,13,Xeno Neqiina,234,180,0,0,0,0,0,false,8
+1069,13,Cross Bowgun,234,180,0,0,0,0,0,false,6
+1070,13,Great Bowgun,260,200,0,0,0,0,0,false,8

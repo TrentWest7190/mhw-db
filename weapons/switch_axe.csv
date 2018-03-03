@@ -1,0 +1,80 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+677,9,Proto Iron Axe I,280,80,0,0,0,0,0,false,1
+678,9,Proto Iron Axe II,315,90,0,0,0,0,0,false,1
+679,9,Proto Iron Axe III,350,100,0,0,0,0,0,false,2
+680,9,Improved Steel Axe I,385,110,0,0,0,0,0,false,3
+681,9,Improved Steel Axe II,455,130,0,0,0,0,0,false,4
+682,9,Improved Steel Axe III,490,140,0,0,1,300,0,true,5
+683,9,Perfected Alloy Axe I,560,160,0,0,1,360,0,true,6
+684,9,Perfected Alloy Axe II,630,180,0,0,1,420,0,true,6
+685,9,Nergal Gash,665,190,5,120,0,0,0,false,7
+686,9,Dying Light,700,200,5,150,0,0,0,false,8
+687,9,Glacial Axe I,455,130,4,210,0,0,0,false,4
+688,9,Glacial Axe II,490,140,4,240,0,0,0,false,5
+689,9,Frostreaver,525,150,4,270,0,0,0,false,6
+690,9,Legia Frostreaver,560,160,4,300,0,0,0,false,7
+691,9,Thunder Axe I,420,120,3,90,0,0,0,false,3
+692,9,Thunder Axe II,490,140,3,90,0,0,0,false,4
+693,9,Lightning Chopper I,560,160,3,120,0,0,0,false,5
+694,9,Lightning Chopper II,595,170,3,150,0,0,0,false,6
+695,9,Lightning Chopper III,630,180,3,180,0,0,0,false,6
+696,9,Motor Chopper I,630,180,1,120,0,0,0,false,6
+697,9,Motor Chopper II,735,210,1,120,0,0,0,false,7
+698,9,Jagras Axe I,385,110,0,0,0,0,0,false,2
+699,9,Jagras Axe II,420,120,0,0,0,0,0,false,3
+700,9,Jagras Axe III,490,140,0,0,0,0,0,false,4
+701,9,Jagras Rider I,560,160,0,0,2,180,0,true,5
+702,9,Jagras Rider II,630,180,0,0,2,210,0,true,6
+703,9,Jagras Rider III,665,190,0,0,2,240,0,true,6
+704,9,Bazel Rider I,665,190,0,0,4,150,-15,false,6
+705,9,Bazel Rider II,700,200,0,0,4,180,-15,false,7
+706,9,Rathalos Axe I,455,130,1,120,0,0,10,false,4
+707,9,Rathalos Axe II,490,140,1,120,0,0,10,false,4
+708,9,Rathbringer Axe I,560,160,1,150,0,0,15,false,6
+709,9,Rathbringer Axe II,665,190,1,150,0,0,15,false,7
+710,9,Bone Axe I,315,90,0,0,0,0,0,false,1
+711,9,Bone Axe II,350,100,0,0,0,0,0,false,1
+712,9,Bone Axe III,385,110,0,0,0,0,0,false,2
+713,9,Bone Smasher I,490,140,0,0,0,0,0,false,3
+714,9,Bone Smasher II,525,150,0,0,0,0,0,false,4
+715,9,Bone Smasher III,560,160,0,0,0,0,0,false,5
+716,9,Power Smasher I,595,170,0,0,0,0,0,false,6
+717,9,Power Smasher II,665,190,0,0,0,0,10,false,6
+718,9,Hazak Demios I,665,190,5,180,0,0,0,false,7
+719,9,Hazak Demios II,700,200,5,210,0,0,0,false,7
+720,9,Madness Axe I,385,110,2,150,0,0,0,false,2
+721,9,Madness Axe II,420,120,2,180,0,0,0,false,3
+722,9,Madness Axe III,490,140,2,210,0,0,0,false,4
+723,9,Jyura Drought I,560,160,2,240,0,0,0,false,5
+724,9,Jyura Drought II,630,180,2,270,0,0,0,false,6
+725,9,Jyura Drought III,665,190,2,300,0,0,0,false,7
+726,9,Lumu Axe I,420,120,0,0,0,0,10,false,3
+727,9,Lumu Axe II,490,140,0,0,0,0,10,false,4
+728,9,Lumu Smasher I,525,150,0,0,4,360,20,true,5
+729,9,Lumu Smasher II,560,160,0,0,4,390,20,true,6
+730,9,Lumu Smasher III,595,170,0,0,4,420,20,true,7
+731,9,Carapace Axe I,420,120,0,0,0,0,-20,false,2
+732,9,Carapace Axe II,490,140,0,0,0,0,-20,false,3
+733,9,Carapace Axe III,560,160,0,0,0,0,-20,false,5
+734,9,Barroth Grinder I,595,170,0,0,3,240,-20,true,5
+735,9,Barroth Grinder II,665,190,0,0,3,270,-20,true,6
+736,9,Barroth Grinder III,735,210,0,0,3,300,-20,true,6
+737,9,Diablos Axe I,595,170,0,0,0,0,-30,false,4
+738,9,Diablos Axe II,630,180,4,90,0,0,-30,true,5
+739,9,Axe Semper Tyrannis,735,210,4,120,0,0,-30,true,6
+740,9,Axe of Thanatos,770,220,4,150,0,0,-30,true,7
+741,9,Axe of Demons,805,230,4,180,0,0,-30,true,8
+742,9,Flammenbeil,455,130,1,180,0,0,-20,false,3
+743,9,Flammenbeil+,560,160,1,240,0,0,-20,false,5
+744,9,Gnashing Flammenbeil,735,210,1,300,0,0,-20,false,7
+745,9,Dragonbone Slicer I,350,100,5,210,0,0,0,false,3
+746,9,Dragonbone Slicer II,385,110,5,270,0,0,0,false,4
+747,9,Dragonbone Slicer III,560,160,5,330,0,0,0,false,6
+748,9,Peal,385,110,3,360,0,0,0,false,4
+749,9,Peal+,490,140,3,390,0,0,0,false,7
+750,9,Kirin Thunderpeal,560,160,3,420,0,0,0,false,8
+751,9,Blacksteel Switch Axe I,350,100,5,120,0,0,15,false,5
+752,9,Blacksteel Switch Axe II,385,110,5,150,0,0,15,false,6
+753,9,Teostra's Arx,630,180,0,0,4,300,0,false,7
+754,9,Teostra's Castle,665,190,0,0,4,300,0,false,8
+755,9,Xeno Martshu,595,170,5,150,0,0,0,false,8

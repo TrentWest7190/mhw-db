@@ -1,0 +1,82 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+348,5,Iron Katana I,264,80,0,0,0,0,0,false,1
+349,5,Iron Katana II,297,90,0,0,0,0,0,false,1
+350,5,Iron Katana III,330,100,0,0,0,0,0,false,2
+351,5,Iron Grace I,363,110,0,0,0,0,0,false,3
+352,5,Iron Grace II,429,130,0,0,0,0,0,false,4
+353,5,Iron Grace III,462,140,2,120,0,0,0,true,5
+354,5,Iron Gospel I,528,160,2,150,0,0,0,true,6
+355,5,Iron Gospel II,594,180,2,180,0,0,0,true,6
+356,5,Nergal Reaver,627,190,5,90,0,0,0,false,7
+357,5,Extermination's Edge,693,210,5,120,0,0,0,false,8
+358,5,Flickering Glow I,429,130,0,0,0,0,0,false,3
+359,5,Flickering Glow II,462,140,0,0,0,0,0,false,4
+360,5,Dazzling Flash I,528,160,3,240,0,0,0,true,5
+361,5,Dazzling Flash II,561,170,3,300,0,0,0,true,6
+362,5,Dazzling Flash III,594,180,3,360,0,0,0,true,6
+363,5,First Dance I,330,100,0,0,0,0,15,false,2
+364,5,First Dance II,363,110,0,0,0,0,15,false,3
+365,5,First Dance III,429,130,0,0,0,0,15,false,4
+366,5,Last Dance I,495,150,0,0,2,210,20,true,5
+367,5,Last Dance II,528,160,0,0,2,240,20,true,6
+368,5,Last Dance III,561,170,0,0,2,270,20,true,6
+369,5,Brazenridge I,594,180,1,90,0,0,-10,false,6
+370,5,Brazenridge II,660,200,1,120,0,0,-10,false,7
+371,5,Wyvern Blade "Leaf",363,110,0,0,1,240,10,false,3
+372,5,Wyvern Blade "Verde",495,150,0,0,1,270,10,false,5
+373,5,Wyvern Blade "Holly",627,190,0,0,1,330,10,false,7
+374,5,Wyvern Blade "Fall",396,120,1,150,0,0,15,false,4
+375,5,Wyvern Blade "Blood",528,160,1,180,0,0,15,false,6
+376,5,Wyvern Blade "Azure",561,170,1,210,0,0,15,false,7
+377,5,Wyvern Blade "Indigo",627,190,1,240,0,0,15,false,8
+378,5,Bone Shotel I,297,90,0,0,0,0,0,false,1
+379,5,Bone Shotel II,330,100,0,0,0,0,0,false,1
+380,5,Bone Shotel III,396,120,0,0,0,0,0,false,2
+381,5,Hard Bone Shotel I,429,130,0,0,0,0,0,false,3
+382,5,Hard Bone Shotel II,495,150,0,0,0,0,0,false,4
+383,5,Hard Bone Shotel III,528,160,0,0,2,210,0,true,5
+384,5,Bone Reaper I,561,170,0,0,2,240,0,true,6
+385,5,Bone Reaper II,627,190,0,0,2,270,0,true,6
+386,5,Rookslayer Long Sword,561,170,0,0,4,150,-10,false,6
+387,5,Bazel Varga Rookslayer,660,200,0,0,4,210,-10,false,8
+388,5,Blazing Shotel I,462,140,1,150,0,0,-20,false,3
+389,5,Blazing Shotel II,528,160,1,210,0,0,-20,false,4
+390,5,Anja Scimitar I,594,180,1,270,0,0,-20,false,5
+391,5,Anja Scimitar II,660,200,1,330,0,0,-20,false,6
+392,5,Anja Scimitar III,693,210,1,390,0,0,-20,false,6
+393,5,Jyura Shotel I,396,120,2,150,0,0,0,false,2
+394,5,Jyura Shotel II,429,130,2,180,0,0,0,false,3
+395,5,Jyura Shotel III,462,140,2,210,0,0,0,false,4
+396,5,Dipterus I,495,150,2,240,0,0,0,false,5
+397,5,Dipterus II,561,170,2,300,0,0,0,false,6
+398,5,Dipterus III,627,190,2,360,0,0,0,false,6
+399,5,Hazak Grosser I,627,190,5,210,0,0,0,false,7
+400,5,Hazak Grosser II,660,200,5,270,0,0,0,false,7
+401,5,Pulsar Shotel I,363,110,3,120,0,0,10,false,3
+402,5,Pulsar Shotel II,396,120,3,150,0,0,10,false,3
+403,5,Pulsar Shotel III,462,140,3,180,0,0,10,false,4
+404,5,Kadachi Fang I,528,160,3,210,0,0,15,false,5
+405,5,Kadachi Fang II,561,170,3,240,0,0,15,false,6
+406,5,Kadachi Fang III,594,180,3,270,0,0,15,false,6
+407,5,Glacial Shotel I,429,130,4,210,0,0,0,false,4
+408,5,Glacial Shotel II,462,140,4,240,0,0,0,false,5
+409,5,Stealer,495,150,4,300,0,0,0,false,6
+410,5,Legia Stealer,528,160,4,360,0,0,0,false,8
+411,5,Dark Shotel I,396,120,0,0,0,0,0,false,3
+412,5,Dark Shotel II,429,130,0,0,0,0,0,false,4
+413,5,Dark Scimitar I,462,140,0,0,3,180,0,true,5
+414,5,Dark Scimitar II,495,150,0,0,3,210,0,true,6
+415,5,Dark Scimitar III,528,160,0,0,3,240,0,true,6
+416,5,Dragonbone Stabber I,330,100,5,270,0,0,0,false,3
+417,5,Dragonbone Stabber II,363,110,5,330,0,0,0,false,4
+418,5,Dragonbone Stabber III,528,160,5,420,0,0,0,false,6
+419,5,Magda Facultas I,528,160,0,0,4,300,-20,false,5
+420,5,Magda Facultas II,726,220,0,0,4,360,-20,false,7
+421,5,Blacksteel Long Sword I,330,100,5,120,0,0,0,false,5
+422,5,Blacksteel Long Sword II,363,110,5,150,0,0,0,false,6
+423,5,Imperial Saber,561,170,0,0,4,300,0,false,7
+424,5,Imperial Shimmer,627,190,0,0,4,300,0,false,8
+425,5,Xeno Cypher ,594,180,5,180,0,0,15,false,8
+426,5,Supermacy Blade,561,170,5,120,0,0,0,true,6
+427,5,Divine Slasher,693,210,5,150,0,0,0,true,8
+428,5,Azure Star Blade,363,110,2,120,0,0,20,false,3

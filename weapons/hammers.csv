@@ -1,0 +1,85 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+1,1,Iron Hammer I,416,80,0,0,0,0,0,false,1
+2,1,Iron Hammer II,468,90,0,0,0,0,0,false,1
+3,1,Iron Hammer III,520,100,0,0,0,0,0,false,2
+4,1,Iron Demon I,572,110,0,0,0,0,0,false,3
+5,1,Iron Demon II,676,130,0,0,0,0,0,false,4
+6,1,Iron Demon III,728,140,0,0,4,210,0,true,5
+7,1,Iron Archdemon I,832,160,0,0,4,240,0,true,6
+8,1,Iron Archdemon II,936,180,0,0,4,270,0,true,6
+9,1,Nergal Crusher,1040,200,5,90,0,0,0,false,7
+10,1,Obliteration's Footfall,1092,210,5,120,0,0,0,false,8
+11,1,Frozen Core ,624,120,4,270,0,0,0,false,4
+12,1,Frozen Core+,832,160,4,390,0,0,0,false,6
+13,1,Cocytus,936,180,4,450,0,0,0,false,7
+14,1,Aqua Hammer I,572,110,2,90,0,0,0,false,2
+15,1,Aqua Hammer II,624,120,2,120,0,0,0,false,3
+16,1,Aqua Hammer III,676,130,2,150,0,0,0,false,4
+17,1,Water Basher I,780,150,2,180,0,0,0,false,5
+18,1,Water Basher II,832,160,2,210,0,0,0,false,6
+19,1,Water Basher III,936,180,2,240,0,0,0,false,6
+20,1,Girros Hammer I,624,120,0,0,3,210,0,false,3
+21,1,Girros Hammer II,676,130,0,0,3,270,0,false,4
+22,1,Malady's Fist I,728,140,0,0,3,330,20,false,5
+23,1,Malady's Fist II,780,150,0,0,3,360,20,false,6
+24,1,Malady's Fist III,832,160,0,0,3,390,20,false,6
+25,1,Blooming Hammer I,520,100,0,0,1,300,0,false,2
+26,1,Blooming Hammer II,624,120,0,0,1,360,0,false,3
+27,1,Blooming Hammer III,728,140,0,0,1,420,0,false,4
+28,1,Buon Fiore,780,150,0,0,1,480,0,false,5
+29,1,Buona Flora,936,180,0,0,1,540,0,false,7
+30,1,Thunder Hammer I,676,130,3,180,0,0,0,false,3
+31,1,Thunder Hammer II,780,150,3,210,0,0,0,false,4
+32,1,Lightning Bash I,832,160,3,832,0,0,0,false,5
+33,1,Lightning Bash II,884,170,3,270,0,0,0,false,6
+34,1,Lightning Bash III,988,190,3,300,0,0,0,false,6
+35,1,Bone Bludgeon I,520,100,0,0,0,0,0,false,1
+36,1,Bone Bludgeon II,572,110,0,0,0,0,0,false,1
+37,1,Bone Bludgeon III,624,120,0,0,0,0,0,false,2
+38,1,Fossil Bludgeon I,728,140,0,0,0,0,0,false,3
+39,1,Fossil Bludgeon II,780,150,0,0,0,0,0,false,4
+40,1,Fossil Bludgeon III,832,160,3,360,0,0,0,true,5
+41,1,Grandrock I,884,170,3,390,0,0,0,true,6
+42,1,Grandrock II,988,190,3,420,0,0,0,true,6
+43,1,Hazak Vlafos,988,190,5,210,0,0,0,false,7
+44,1,Pandemonium's Root,1040,200,5,270,0,0,0,false,8
+45,1,Bone Spike I,676,130,0,0,2,150,0,false,3
+46,1,Bone Spike II,728,140,0,0,2,180,0,false,4
+47,1,Baan Strike I,780,150,0,0,2,210,0,false,5
+48,1,Baan Strike II,884,170,0,0,2,240,0,false,6
+49,1,Baan Strike III,988,190,0,0,2,270,0,false,6
+50,1,Brazenbreak I,988,190,1,120,0,0,0,false,6
+51,1,Brazenbreak II,1092,210,1,120,0,0,0,false,7
+52,1,Kulu Beak I,624,120,0,0,0,0,15,false,2
+53,1,Kulu Beak II,676,130,0,0,0,0,15,false,3
+54,1,Kulu Beak III,728,140,0,0,0,0,15,false,4
+55,1,Crushing Beak I,780,150,0,0,2,240,25,true,5
+56,1,Crushing Beak II,832,160,0,0,2,300,25,true,6
+57,1,Crushing Beak III,884,170,0,0,2,360,25,true,6
+58,1,Diablos Sledge I,884,170,0,0,0,0,-25,false,4
+59,1,Diablos Sledge II,988,190,4,120,0,0,-25,true,5
+60,1,Diablos Shatterer I,1092,210,4,150,0,0,-25,true,6
+61,1,Diablos Shatterer II,1196,230,4,150,0,0,-25,true,7
+62,1,Carapace Sledge I,676,130,0,0,0,0,-10,false,2
+63,1,Carapace Sledge II,728,140,0,0,0,0,-10,false,3
+64,1,Carapace Sledge III,832,160,0,0,0,0,-10,false,4
+65,1,Barroth Breaker I,936,180,0,0,3,270,-10,true,5
+66,1,Barroth Breaker II,988,190,0,0,3,330,-10,true,6
+67,1,Barroth Breaker III,1040,200,0,0,3,390,-10,true,6
+68,1,Blazing Hammer I,780,150,1,210,0,0,-20,false,3
+69,1,Blazing Hammer II,832,160,1,270,0,0,-20,false,4
+70,1,Anja Striker I,884,170,1,330,0,0,-20,false,5
+71,1,Anja Striker II,988,190,1,360,0,0,-20,false,6
+72,1,Anja Striker III,1092,210,1,390,0,0,-20,false,6
+73,1,Dragonbone Basher I,520,100,5,300,0,0,0,false,3
+74,1,Dragonbone Basher II,572,110,5,360,0,0,0,false,4
+75,1,Dragonbone Basher III,832,160,5,420,0,0,0,false,6
+76,1,Magda Floga,832,160,0,0,4,330,-20,false,5
+77,1,Ragefire Magda Floga,1144,220,0,0,4,420,-20,false,8
+78,1,Blacksteel Hammer I,520,100,5,120,0,0,0,false,5
+79,1,Blacksteel Hammer II,572,110,5,150,0,0,0,false,6
+80,1,Icesteel Hammer,988,190,4,120,0,0,0,false,7
+81,1,Daora's Colossus,1040,200,4,150,0,0,0,false,8
+82,1,Xeno Maph'agarna,884,170,5,180,0,0,10,false,8
+83,1,Jail Hammer,832,160,0,0,3,180,0,false,6
+84,1,Binder Mace,936,180,0,0,3,210,0,false,8

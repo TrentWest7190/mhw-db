@@ -1,0 +1,85 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+514,7,Iron Lance I,184,80,0,0,0,0,0,false,1
+515,7,Iron Lance II,207,90,0,0,0,0,0,false,1
+516,7,Iron Lance III,230,100,0,0,0,0,0,false,2
+517,7,Steel Lance I,253,110,0,0,0,0,0,false,3
+518,7,Steel Lance II,299,130,0,0,0,0,0,false,4
+519,7,Steel Lance III,322,140,0,0,3,210,0,true,5
+520,7,Chrome Lance I,368,160,0,0,3,240,0,true,6
+521,7,Chrome Lance II,414,180,0,0,3,270,0,true,6
+522,7,Nergal Impaler,460,200,5,120,0,0,0,false,7
+523,7,Perdition's Hand,483,210,5,150,0,0,0,false,8
+524,7,Glacial Lance I,299,130,4,270,0,0,0,false,4
+525,7,Glacial Lance II,322,140,4,300,0,0,0,false,5
+526,7,Legiana Halberd I,345,150,4,330,0,0,0,false,6
+527,7,Legiana Halberd II,368,160,4,360,0,0,0,false,7
+528,7,Kulu Lance I,253,110,0,0,0,0,15,false,2
+529,7,Kulu Lance II,276,120,0,0,0,0,15,false,2
+530,7,Kulu Lance III,299,130,0,0,0,0,15,false,4
+531,7,Kulu Hasta I,345,150,0,0,2,300,25,true,5
+532,7,Kulu Hasta II,368,160,0,0,2,330,25,true,6
+533,7,Kulu Hasta III,391,170,0,0,2,360,25,true,6
+534,7,Gama Pilebunker I,368,160,0,0,4,180,0,false,6
+535,7,Gama Pilebunker II,391,170,0,0,4,210,0,false,7
+536,7,Thunder Lance I,276,120,3,120,0,0,0,false,3
+537,7,Thunder Lance II,322,140,3,150,0,0,0,false,4
+538,7,Lightning Spire I,368,160,3,180,0,0,0,false,5
+539,7,Lightning Spire II,391,170,3,210,0,0,0,false,6
+540,7,Lightning Spire III,414,180,3,240,0,0,0,false,6
+541,7,Blooming Lance I,230,100,0,0,1,240,0,false,2
+542,7,Blooming Lance II,253,110,0,0,1,300,0,false,3
+543,7,Blooming Lance III,299,130,0,0,1,360,0,false,4
+544,7,Datura Pike I,345,150,0,0,1,420,0,false,5
+545,7,Datura Pike II,368,160,0,0,1,480,0,false,6
+546,7,Datura Pike III,391,170,0,0,1,540,0,false,6
+547,7,Flame Lance I,299,130,1,180,0,0,10,false,4
+548,7,Flame Lance II,322,140,1,210,0,0,10,false,5
+549,7,Red Tail,391,170,1,240,0,0,10,false,6
+550,7,Blue Tail,414,180,1,210,0,0,20,false,7
+551,7,Blue Prominence,437,190,1,300,0,0,20,false,8
+552,7,Bone Lance I,207,90,0,0,0,0,0,false,1
+553,7,Bone Lance II,230,100,0,0,0,0,0,false,1
+554,7,Bone Lance III,253,110,0,0,0,0,0,false,2
+555,7,Hard Bone Lance I,322,140,0,0,0,0,0,false,3
+556,7,Hard Bone Lance II,345,150,0,0,0,0,0,false,4
+557,7,Hard Bone Lance III,368,160,0,0,1,180,0,true,5
+558,7,Heavy Bone Lance I,391,170,0,0,1,210,0,true,6
+559,7,Heavy Bone Lance II,437,190,0,0,1,240,0,true,6
+560,7,Hazak Wächter,437,190,5,240,0,0,0,false,7
+561,7,Love's Sorrow,460,200,5,270,0,0,0,false,8
+562,7,Taurus Lance I,276,120,0,0,0,0,0,false,3
+563,7,Taurus Lance II,299,130,0,0,0,0,0,false,4
+564,7,Dark Stinger I,322,140,0,0,4,180,0,true,5
+565,7,Dark Stinger II,345,150,0,0,4,210,0,true,6
+566,7,Dark Stinger III,368,160,0,0,4,240,0,true,6
+567,7,Carapace Lance I,253,110,0,0,0,0,-20,false,2
+568,7,Carapace Lance II,276,120,0,0,0,0,-20,false,3
+569,7,Carapace Lance III,345,150,0,0,0,0,-20,false,4
+570,7,Barroth Stinger I,391,170,0,0,3,300,-20,true,5
+571,7,Barroth Stinger II,437,190,0,0,3,330,-20,true,6
+572,7,Barroth Stinger III,460,200,0,0,3,390,-20,true,6
+573,7,Garon Lance I,299,130,0,0,0,0,15,false,4
+574,7,Garon Lance II,322,140,1,150,0,0,0,true,5
+575,7,Garon Dhara I,345,150,1,180,0,0,30,true,6
+576,7,Garon Dhara II,391,170,1,210,0,0,30,true,7
+577,7,Aqua Horn I,253,110,2,150,0,0,0,false,2
+578,7,Aqua Horn II,276,120,2,180,0,0,0,false,2
+579,7,Aqua Horn III,322,140,2,210,0,0,0,false,4
+580,7,Water Spike I,345,150,2,240,0,0,0,false,5
+581,7,Water Spike II,391,170,2,270,0,0,0,false,6
+582,7,Water Spike III,437,190,2,300,0,0,0,false,6
+583,7,Dragonbone Lance I,230,100,5,300,0,0,0,false,3
+584,7,Dragonbone Lance II,253,110,5,360,0,0,0,false,4
+585,7,Dragonbone Lance III,368,160,5,420,0,0,0,false,6
+586,7,Rookslayer Lance,414,180,0,0,4,180,-10,false,6
+587,7,Bazel Myniad Rookslayer,460,200,0,0,4,210,-10,false,8
+588,7,Thunderpike,253,110,3,420,0,0,0,false,4
+589,7,Thunderspear,345,150,3,480,0,0,10,false,7
+590,7,Thunderpiercer,368,160,3,540,0,0,10,false,8
+591,7,Blacksteel Lance I,230,100,5,120,0,0,0,false,5
+592,7,Blacksteel Lance II,253,110,5,150,0,0,0,false,6
+593,7,Icesteel Spear,391,170,4,210,0,0,10,false,7
+594,7,Daora's Fang,414,180,4,240,0,0,10,false,8
+595,7,Xeno Zauta,391,170,5,180,0,0,15,false,8
+596,7,Babel Spear,414,180,1,270,0,0,0,true,6
+597,7,Elder Babel Spear,460,200,1,330,0,0,0,true,8

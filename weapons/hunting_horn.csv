@@ -1,0 +1,86 @@
+wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+429,6,Metal Bagpipe I,336,80,0,0,0,0,0,false,1
+430,6,Metal Bagpipe II,378,90,0,0,0,0,0,false,1
+431,6,Metal Bagpipe III,420,100,0,0,0,0,0,false,2
+432,6,Great Bagpipe I,462,110,0,0,0,0,0,false,3
+433,6,Great Bagpipe II,546,130,0,0,0,0,0,false,4
+434,6,Great Bagpipe III,588,140,0,0,3,210,0,true,5
+435,6,Fortissimo I,672,160,0,0,3,240,0,true,6
+436,6,Fortissimo II,756,180,0,0,3,270,0,true,6
+437,6,Nergal Groove,840,200,5,120,0,0,0,false,7
+438,6,Desolation's Overture,882,210,5,150,0,0,0,false,8
+439,6,Thunder Gaida I,504,120,3,120,0,0,0,false,3
+440,6,Thunder Gaida II,546,130,3,150,0,0,0,false,4
+441,6,Lightning Drum I,630,150,3,180,0,0,0,false,5
+442,6,Lightning Drum II,714,170,3,210,0,0,0,false,6
+443,6,Lightning Drum III,756,180,3,240,0,0,0,false,6
+444,6,Kulu Duda I,420,100,0,0,0,0,15,false,2
+445,6,Kulu Duda II,504,120,0,0,0,0,15,false,3
+446,6,Kulu Duda III,588,140,0,0,0,0,15,false,4
+447,6,Dancing Davul I,630,150,0,0,2,240,25,true,5
+448,6,Dancing Davul II,672,160,0,0,2,300,25,true,6
+449,6,Dancing Davul III,714,170,0,0,2,360,25,true,6
+450,6,Valkyrie Chordmaker,462,110,1,150,0,0,15,false,3
+451,6,Queen Chordmaker,630,150,1,180,0,0,15,false,5
+452,6,Coral Chordmaker,714,170,1,210,0,0,25,false,6
+453,6,Royal Chordmaker,798,190,1,240,0,0,25,false,7
+454,6,Aqua Bagpipe I,420,100,2,120,0,0,0,false,2
+455,6,Aqua Bagpipe II,504,120,2,150,0,0,0,false,3
+456,6,Aqua Bagpipe III,546,130,2,180,0,0,0,false,4
+457,6,Water Tamtam I,588,140,2,210,0,0,0,false,5
+458,6,Water Tamtam II,672,160,2,240,0,0,0,false,6
+459,6,Water Tamtam III,756,180,2,270,0,0,0,false,6
+460,6,Glacial Bagpipe I,546,130,4,240,0,0,0,false,4
+461,6,Glacial Bagpipe II,588,140,4,300,0,0,0,false,5
+462,6,Sectored,630,150,4,330,0,0,0,false,6
+463,6,Legia Sectored,672,160,4,360,0,0,0,false,7
+464,6,Bone Horn I,420,100,0,0,0,0,0,false,1
+465,6,Bone Horn II,462,110,0,0,0,0,0,false,1
+466,6,Bone Horn III,504,120,0,0,0,0,0,false,2
+467,6,Hard Bone Horn I,588,140,0,0,0,0,0,false,3
+468,6,Hard Bone Horn II,630,150,0,0,0,0,0,false,4
+469,6,Hard Bone Horn III,672,160,4,180,0,0,0,true,5
+470,6,Heavy Bone Horn I,714,170,4,210,0,0,0,true,6
+471,6,Heavy Bone Horn II,798,190,4,240,0,0,0,true,6
+472,6,Gama Horn I,756,180,0,0,4,120,0,false,6
+473,6,Gama Horn II,798,190,0,0,4,150,0,false,7
+474,6,Blazing Horn I,546,130,1,210,0,0,-20,false,3
+475,6,Blazing Horn II,630,150,1,240,0,0,-20,false,4
+476,6,Anja Barone I,672,160,1,270,0,0,-20,false,5
+477,6,Anja Barone II,798,190,1,330,0,0,-20,false,6
+478,6,Anja Barone III,882,210,1,450,0,0,-20,false,6
+479,6,Blooming Horn I,504,120,0,0,1,240,0,false,2
+480,6,Blooming Horn II,546,130,0,0,1,300,0,false,3
+481,6,Blooming Horn III,588,140,0,0,1,360,0,false,4
+482,6,Datura Horn I,630,150,0,0,1,420,0,false,5
+483,6,Datura Horn II,672,160,0,0,1,480,0,false,6
+484,6,Datura Horn III,714,170,0,0,1,540,0,false,6
+485,6,Lumu Horn I,546,130,0,0,0,0,10,false,3
+486,6,Lumu Horn II,588,140,0,0,0,0,10,false,4
+487,6,Lumu Barone I,630,150,2,420,0,0,10,false,5
+488,6,Lumu Barone II,672,160,2,480,0,0,10,false,6
+489,6,Lumu Barone III,714,170,2,570,0,0,10,false,6
+490,6,Rookslayer Drum,756,180,0,0,4,180,-10,false,6
+491,6,Bazelreid Rookslayer,840,200,0,0,4,210,-10,false,8
+492,6,Sonic Horn I,462,110,0,0,3,120,0,false,2
+493,6,Sonic Horn II,504,120,0,0,3,150,0,false,3
+494,6,Sonic Horn III,546,130,0,0,3,180,0,false,4
+495,6,Glass Royale,588,140,0,0,3,240,0,false,5
+496,6,Glass Royale+,630,150,0,0,3,270,0,false,6
+497,6,Queen Vespoid Horn,672,160,0,0,3,300,0,false,7
+498,6,Spiked Horn I,546,130,0,0,2,150,0,false,3
+499,6,Spiked Horn II,588,140,0,0,2,180,0,false,4
+500,6,Baan Horn I,672,160,0,0,2,210,0,false,5
+501,6,Baan Horn II,756,180,0,0,2,240,0,false,6
+502,6,Baan Horn III,798,190,0,0,2,270,0,false,6
+503,6,Dragonbone Auldhorn I,420,100,5,300,0,0,0,false,3
+504,6,Dragonbone Auldhorn II,462,110,5,360,0,0,0,false,4
+505,6,Dragonbone Auldhorn III,672,160,5,420,0,0,0,false,6
+506,6,Thundercry Horn ,504,120,3,390,0,0,0,false,4
+507,6,Thunderbolt Horn I,588,140,3,480,0,0,0,false,6
+508,6,Thunderbolt Horn II,672,160,3,540,0,0,0,false,7
+509,6,Blacksteel Dragonhorn I,420,100,5,120,0,0,0,false,5
+510,6,Blacksteel Dragonhorn II,462,110,5,150,0,0,0,false,6
+511,6,Teostra's Tiple,756,180,0,0,4,330,0,false,7
+512,6,Teostra's Orphée,798,190,0,0,4,390,0,false,8
+513,6,Xeno Manasheena,714,170,5,180,0,0,15,false,8
