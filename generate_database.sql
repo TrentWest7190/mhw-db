@@ -1,6 +1,6 @@
 -- Table: public.elements
 
-DROP TABLE IF EXISTS public.elements
+DROP TABLE IF EXISTS public.elements;
 
 CREATE TABLE public.elements
 (
