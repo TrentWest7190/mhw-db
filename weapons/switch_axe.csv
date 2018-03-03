@@ -1,4 +1,4 @@
-wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+
 677,9,Proto Iron Axe I,280,80,0,0,0,0,0,false,1
 678,9,Proto Iron Axe II,315,90,0,0,0,0,0,false,1
 679,9,Proto Iron Axe III,350,100,0,0,0,0,0,false,2

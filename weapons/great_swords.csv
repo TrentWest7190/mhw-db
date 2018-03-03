@@ -1,4 +1,4 @@
-wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+
 85,2,Buster Sword I,384,80,0,0,0,0,0,false,1
 86,2,Buster Sword II,432,90,0,0,0,0,0,false,1
 87,2,Buster Sword III,480,100,0,0,0,0,0,false,2

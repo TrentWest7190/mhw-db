@@ -1,4 +1,4 @@
-wep_id,weapon_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,needs_awakening,affinity,rarity
+
 987,13,Chain Blitz I,130,100,0,0,0,0,0,false,1
 988,13,Chain Blitz II,143,110,0,0,0,0,0,false,1
 989,13,Chain Blitz III,156,120,0,0,0,0,0,false,2
