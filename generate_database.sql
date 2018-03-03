@@ -1,8 +1,8 @@
 -- Database: MonsterHunterWorld
 
-DROP DATABASE IF EXISTS "MonsterHunterWorld";
+DROP DATABASE IF EXISTS "monster_hunter_world";
 
-CREATE DATABASE "MonsterHunterWorld"
+CREATE DATABASE "monster_hunter_world"
     WITH 
     OWNER = postgres
     ENCODING = 'UTF8'
