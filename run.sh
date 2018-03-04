@@ -11,4 +11,4 @@ for filename in ./weapon_metadata/*.csv; do
         psql -d monster_hunter_world -c "\copy $tablename FROM '$filename' CSV HEADER"
 done
 
-cat headers.csv weapons/*.csv | psql -d monster_hunter_world -c 'COPY weapons FROM stdin CSV HEADER'
+cat headers.csv weapons/*.csv | psql -d monster_hunter_world -c "\copy weapons FROM stdin CSV HEADER"
