@@ -1,3 +1,5 @@
+DROP DATABASE monster_hunter_world;
+
 -- Table: public.elements
 
 DROP TABLE IF EXISTS public.elements;
