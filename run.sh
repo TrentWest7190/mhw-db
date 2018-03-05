@@ -7,6 +7,7 @@ psql -c "CREATE DATABASE monster_hunter_world"
 psql -d monster_hunter_world -f ./generate_database.sql
 
 for filename in ./weapon_metadata/*.csv; do
+	echo "weapon metadata: $filename"
         tablename=$(basename $filename | cut -d "." -f1)
         psql -d monster_hunter_world -c "\copy $tablename FROM '$filename' CSV HEADER"
 done
@@ -17,6 +18,7 @@ psql -d monster_hunter_world -c "\copy weapons(wep_id,wep_type_id,name,attack,tr
 
 
 for filename in ./sharpness/*.csv; do
+	echo "weapon sharpness data: $filename"
         tablename=$(basename $filename | cut -d "." -f1)
         psql -d monster_hunter_world -c "\copy weapons_sharpness from '$filename' CSV"
 done
