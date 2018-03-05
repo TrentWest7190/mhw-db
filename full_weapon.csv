@@ -1,0 +1,1150 @@
+wep_id,wep_type_id,name,attack,true_attack,element_type,element_value,status_type,status_value,affinity,needs_awakening,rarity
+1,1,Iron Hammer I,416,80,0,0,0,0,0,false,1
+2,1,Iron Hammer II,468,90,0,0,0,0,0,false,1
+3,1,Iron Hammer III,520,100,0,0,0,0,0,false,2
+4,1,Iron Demon I,572,110,0,0,0,0,0,false,3
+5,1,Iron Demon II,676,130,0,0,0,0,0,false,4
+6,1,Iron Demon III,728,140,0,0,4,210,0,true,5
+7,1,Iron Archdemon I,832,160,0,0,4,240,0,true,6
+8,1,Iron Archdemon II,936,180,0,0,4,270,0,true,6
+9,1,Nergal Crusher,1040,200,5,90,0,0,0,false,7
+10,1,Obliteration's Footfall,1092,210,5,120,0,0,0,false,8
+11,1,Frozen Core ,624,120,4,270,0,0,0,false,4
+12,1,Frozen Core+,832,160,4,390,0,0,0,false,6
+13,1,Cocytus,936,180,4,450,0,0,0,false,7
+14,1,Aqua Hammer I,572,110,2,90,0,0,0,false,2
+15,1,Aqua Hammer II,624,120,2,120,0,0,0,false,3
+16,1,Aqua Hammer III,676,130,2,150,0,0,0,false,4
+17,1,Water Basher I,780,150,2,180,0,0,0,false,5
+18,1,Water Basher II,832,160,2,210,0,0,0,false,6
+19,1,Water Basher III,936,180,2,240,0,0,0,false,6
+20,1,Girros Hammer I,624,120,0,0,3,210,0,false,3
+21,1,Girros Hammer II,676,130,0,0,3,270,0,false,4
+22,1,Malady's Fist I,728,140,0,0,3,330,20,false,5
+23,1,Malady's Fist II,780,150,0,0,3,360,20,false,6
+24,1,Malady's Fist III,832,160,0,0,3,390,20,false,6
+25,1,Blooming Hammer I,520,100,0,0,1,300,0,false,2
+26,1,Blooming Hammer II,624,120,0,0,1,360,0,false,3
+27,1,Blooming Hammer III,728,140,0,0,1,420,0,false,4
+28,1,Buon Fiore,780,150,0,0,1,480,0,false,5
+29,1,Buona Flora,936,180,0,0,1,540,0,false,7
+30,1,Thunder Hammer I,676,130,3,180,0,0,0,false,3
+31,1,Thunder Hammer II,780,150,3,210,0,0,0,false,4
+32,1,Lightning Bash I,832,160,3,832,0,0,0,false,5
+33,1,Lightning Bash II,884,170,3,270,0,0,0,false,6
+34,1,Lightning Bash III,988,190,3,300,0,0,0,false,6
+35,1,Bone Bludgeon I,520,100,0,0,0,0,0,false,1
+36,1,Bone Bludgeon II,572,110,0,0,0,0,0,false,1
+37,1,Bone Bludgeon III,624,120,0,0,0,0,0,false,2
+38,1,Fossil Bludgeon I,728,140,0,0,0,0,0,false,3
+39,1,Fossil Bludgeon II,780,150,0,0,0,0,0,false,4
+40,1,Fossil Bludgeon III,832,160,3,360,0,0,0,true,5
+41,1,Grandrock I,884,170,3,390,0,0,0,true,6
+42,1,Grandrock II,988,190,3,420,0,0,0,true,6
+43,1,Hazak Vlafos,988,190,5,210,0,0,0,false,7
+44,1,Pandemonium's Root,1040,200,5,270,0,0,0,false,8
+45,1,Bone Spike I,676,130,0,0,2,150,0,false,3
+46,1,Bone Spike II,728,140,0,0,2,180,0,false,4
+47,1,Baan Strike I,780,150,0,0,2,210,0,false,5
+48,1,Baan Strike II,884,170,0,0,2,240,0,false,6
+49,1,Baan Strike III,988,190,0,0,2,270,0,false,6
+50,1,Brazenbreak I,988,190,1,120,0,0,0,false,6
+51,1,Brazenbreak II,1092,210,1,120,0,0,0,false,7
+52,1,Kulu Beak I,624,120,0,0,0,0,15,false,2
+53,1,Kulu Beak II,676,130,0,0,0,0,15,false,3
+54,1,Kulu Beak III,728,140,0,0,0,0,15,false,4
+55,1,Crushing Beak I,780,150,0,0,2,240,25,true,5
+56,1,Crushing Beak II,832,160,0,0,2,300,25,true,6
+57,1,Crushing Beak III,884,170,0,0,2,360,25,true,6
+58,1,Diablos Sledge I,884,170,0,0,0,0,-25,false,4
+59,1,Diablos Sledge II,988,190,4,120,0,0,-25,true,5
+60,1,Diablos Shatterer I,1092,210,4,150,0,0,-25,true,6
+61,1,Diablos Shatterer II,1196,230,4,150,0,0,-25,true,7
+62,1,Carapace Sledge I,676,130,0,0,0,0,-10,false,2
+63,1,Carapace Sledge II,728,140,0,0,0,0,-10,false,3
+64,1,Carapace Sledge III,832,160,0,0,0,0,-10,false,4
+65,1,Barroth Breaker I,936,180,0,0,3,270,-10,true,5
+66,1,Barroth Breaker II,988,190,0,0,3,330,-10,true,6
+67,1,Barroth Breaker III,1040,200,0,0,3,390,-10,true,6
+68,1,Blazing Hammer I,780,150,1,210,0,0,-20,false,3
+69,1,Blazing Hammer II,832,160,1,270,0,0,-20,false,4
+70,1,Anja Striker I,884,170,1,330,0,0,-20,false,5
+71,1,Anja Striker II,988,190,1,360,0,0,-20,false,6
+72,1,Anja Striker III,1092,210,1,390,0,0,-20,false,6
+73,1,Dragonbone Basher I,520,100,5,300,0,0,0,false,3
+74,1,Dragonbone Basher II,572,110,5,360,0,0,0,false,4
+75,1,Dragonbone Basher III,832,160,5,420,0,0,0,false,6
+76,1,Magda Floga,832,160,0,0,4,330,-20,false,5
+77,1,Ragefire Magda Floga,1144,220,0,0,4,420,-20,false,8
+78,1,Blacksteel Hammer I,520,100,5,120,0,0,0,false,5
+79,1,Blacksteel Hammer II,572,110,5,150,0,0,0,false,6
+80,1,Icesteel Hammer,988,190,4,120,0,0,0,false,7
+81,1,Daora's Colossus,1040,200,4,150,0,0,0,false,8
+82,1,Xeno Maph'agarna,884,170,5,180,0,0,10,false,8
+83,1,Jail Hammer,832,160,0,0,3,180,0,false,6
+84,1,Binder Mace,936,180,0,0,3,210,0,false,8
+85,2,Buster Sword I,384,80,0,0,0,0,0,false,1
+86,2,Buster Sword II,432,90,0,0,0,0,0,false,1
+87,2,Buster Sword III,480,100,0,0,0,0,0,false,2
+88,2,Buster Blade I,576,120,0,0,0,0,0,false,3
+89,2,Buster Blade II,624,130,0,0,0,0,0,false,4
+90,2,Buster Blade III,672,140,0,0,1,240,0,true,5
+91,2,Chrome Razor I,720,150,0,0,1,330,0,true,6
+92,2,Chrome Razor II,864,180,0,0,1,420,0,true,6
+93,2,Nergal Judicator,912,190,5,120,0,0,0,false,7
+94,2,Purgation's Atrocity,1008,210,5,150,0,0,0,false,8
+95,2,Thunder Blade I,528,110,3,120,0,0,0,false,3
+96,2,Thunder Blade II,624,130,3,150,0,0,0,false,4
+97,2,Lightning Punisher I,672,140,3,180,0,0,0,false,5
+98,2,Lightning Punisher II,816,170,3,210,0,0,0,false,6
+99,2,Lightning Punisher III,912,190,3,240,0,0,0,false,6
+100,2,Freeze Blade I,576,120,4,240,0,0,0,false,4
+101,2,Freeze Blade II,624,130,4,270,0,0,0,false,5
+102,2,Frost Blaze I,720,150,4,330,0,0,0,false,6
+103,2,Frost Blaze II,768,160,4,390,0,0,0,false,6
+104,2,Jagras Blade I,528,110,0,0,0,0,0,false,2
+105,2,Jagras Blade II,576,120,0,0,0,0,0,false,3
+106,2,Jagras Blade III,672,140,0,0,0,0,0,false,4
+107,2,Jagras Hacker I,816,170,4,210,0,0,0,true,5
+108,2,Jagras Hacker II,864,180,4,240,0,0,0,true,6
+109,2,Jagras Hacker III,912,190,4,300,0,0,0,true,6
+110,2,Girros Blade I,528,110,0,0,3,210,15,false,3
+111,2,Girros Blade II,624,130,0,0,3,240,15,false,4
+112,2,Malady's Kiss I,672,140,0,0,3,270,20,false,5
+113,2,Malady's Kiss II,720,150,0,0,3,360,20,false,6
+114,2,Malady's Kiss III,768,160,0,0,3,450,20,false,6
+115,2,Lava Blaze I,768,160,1,270,0,0,0,false,6
+116,2,Lava Blaze II,864,180,1,330,0,0,0,false,7
+117,2,Blooming Blade I,528,110,0,0,1,240,0,false,2
+118,2,Blooming Blade II,576,120,0,0,1,300,0,false,3
+119,2,Blooming Blade III,624,130,0,0,1,360,0,false,4
+120,2,Datura Blaze I,720,150,0,0,1,420,0,false,5
+121,2,Datura Blaze II,768,160,0,0,1,480,0,false,6
+122,2,Datura Blaze III,816,170,0,0,1,540,0,false,6
+123,2,Flame Blade I,672,140,1,120,0,0,10,false,4
+124,2,Flame Blade II,720,150,1,150,0,0,10,false,5
+125,2,Red Wing,768,160,1,180,0,0,15,false,6
+126,2,Blue Wing,816,170,1,210,0,0,15,false,7
+127,2,Rathalos Glinsword,912,190,1,240,0,0,15,false,8
+128,2,Bone Blade I,480,100,0,0,0,0,0,false,1
+129,2,Bone Blade II,528,110,0,0,0,0,0,false,1
+130,2,Bone Blade III,576,120,0,0,0,0,0,false,2
+131,2,Bone Slasher I,672,140,0,0,0,0,0,false,3
+132,2,Bone Slasher II,720,150,0,0,0,0,0,false,4
+133,2,Bone Slasher III,768,160,4,180,0,0,0,true,5
+134,2,Giant Jawblade I,816,170,4,240,0,0,0,true,6
+135,2,Giant Jawblade II,912,190,4,300,0,0,0,false,6
+136,2,Hazak Kys,912,190,5,300,0,0,0,false,7
+137,2,Leviathan's Fury,960,200,5,300,0,0,0,false,8
+138,2,Flammenzahn,720,150,1,240,0,0,-30,false,3
+139,2,Flammenzahn+,864,180,1,300,0,0,-30,false,5
+140,2,Gnshing Flammenzahn,1008,210,1,360,0,0,-30,false,7
+141,2,Aqua Slasher I,576,120,2,120,0,0,0,false,2
+142,2,Aqua Slasher II,624,130,2,150,0,0,0,false,3
+143,2,Aqua Slasher III,672,140,2,180,0,0,0,false,4
+144,2,Water Golum I,768,160,2,240,0,0,0,false,5
+145,2,Water Golum II,816,170,2,270,0,0,0,false,6
+146,2,Water Golum III,912,190,2,300,0,0,0,false,6
+147,2,Carapace Buster I,624,130,0,0,0,0,-20,false,2
+148,2,Carapace Buster II,672,140,0,0,0,0,-20,false,3
+149,2,Carapace Buster III,720,150,0,0,0,0,-20,false,4
+150,2,Barroth Shredder I,816,170,0,0,3,270,-20,true,5
+151,2,Barroth Shredder II,864,180,0,0,3,330,-20,true,6
+152,2,Barroth Shredder III,960,200,0,0,3,390,-20,true,6
+153,2,Spiked Blade I,624,130,0,0,2,150,0,false,3
+154,2,Spiked Blade II,672,140,0,0,2,180,0,false,4
+155,2,Radobaan Slab I,768,160,0,0,2,210,0,false,5
+156,2,Radobaan Slab II,816,170,0,0,2,240,0,false,6
+157,2,Radobaan Slab III,912,190,0,0,2,270,0,false,6
+158,2,Dragonbone Cleaver I,480,100,5,270,0,0,0,false,3
+159,2,Dragonbone Cleaver II,576,120,5,330,0,0,0,false,4
+160,2,Dragonbone Cleaver III,768,160,5,420,0,0,0,false,6
+161,2,Thundersword,528,110,3,390,0,0,0,false,4
+162,2,Kirin Thundersword,720,150,3,480,0,0,0,false,7
+163,2,King Thundersword,768,160,3,540,0,0,0,false,8
+164,2,Magda Potestas I,768,160,0,0,4,330,-20,false,5
+165,2,Magda Potestas II,1056,220,0,0,4,420,-20,false,7
+166,2,Blacksteel Chopper I,480,100,5,90,0,0,10,false,5
+167,2,Blacksteel Chopper II,576,120,5,120,0,0,10,false,6
+168,2,Icesteel Edge ,816,170,4,210,0,0,0,false,7
+169,2,Daora's Decimator,864,180,4,270,0,0,0,false,8
+170,2,Xeno Maliq,816,170,5,210,0,0,15,false,8
+171,2,Wyvern Jawblade,864,180,0,0,4,240,0,true,6
+172,2,Great Wyvern Jawblade,960,200,0,0,4,330,0,true,8
+173,3,Hunter's Knife I,112,80,0,0,0,0,0,false,1
+174,3,Hunter's Knife II,126,90,0,0,0,0,0,false,1
+175,3,Hunter's Knife III,140,100,0,0,0,0,0,false,2
+176,3,Steel Knife I,168,120,0,0,0,0,0,false,3
+177,3,Steel Knife II,182,130,0,0,0,0,0,false,4
+178,3,Steel Knife III,196,140,0,0,2,120,0,true,5
+179,3,Chrome Slicer I,224,160,0,0,2,150,0,true,6
+180,3,Chrome Slicer II,252,180,0,0,2,240,0,true,6
+181,3,Nergal Jack,280,200,5,120,0,0,0,false,7
+182,3,Eradication Vanguard,294,210,5,150,0,0,0,false,8
+183,3,Flame Knife I,182,130,1,120,0,0,10,false,4
+184,3,Flame Knife II,196,140,1,120,0,0,10,false,5
+185,3,Heat Edge,224,160,1,150,0,0,20,false,6
+186,3,Corona,266,190,1,180,0,0,20,false,7
+187,3,Heavy Bang,210,150,0,0,0,0,0,false,4
+188,3,Heavy Bang+,252,180,3,270,0,0,0,true,6
+189,3,Master Bang,280,200,3,330,0,0,0,true,7
+190,3,Aqua Messer I,140,100,2,90,0,0,0,false,2
+191,3,Aqua Messer II,168,120,2,120,0,0,0,false,3
+192,3,Aqua Messer III,196,140,2,150,0,0,0,false,4
+193,3,Rogue Wave I,210,150,2,180,0,0,0,false,5
+194,3,Rogue Wave II,224,160,2,210,0,0,0,false,6
+195,3,Rogue Wave III,252,180,2,240,0,0,0,false,6
+196,3,Glacial Grace I,182,130,4,210,0,0,0,false,4
+197,3,Glacial Grace II,196,140,4,240,0,0,0,false,5
+198,3,Rimespire,210,150,4,300,0,0,0,false,6
+199,3,Legia Rimespire,224,160,4,330,0,0,0,false,8
+200,3,Princess Rapier,168,120,0,0,1,150,10,false,3
+201,3,Queen Rapier,210,150,0,0,1,180,10,false,5
+202,3,Queen Rose,238,170,0,0,1,210,10,false,6
+203,3,Royal Rose,266,190,0,0,1,240,10,false,7
+204,3,Lumu Knife I,168,120,0,0,0,0,0,false,3
+205,3,Lumu Knife II,182,130,0,0,0,0,0,false,4
+206,3,Lumu Tabar I,210,150,0,0,4,270,0,true,5
+207,3,Lumu Tabar II,224,160,0,0,4,300,0,true,6
+208,3,Lumu Tabar III,238,170,0,0,4,330,0,true,6
+209,3,Blooming Knife I,154,110,0,0,1,210,0,false,2
+210,3,Blooming Knife II,182,130,0,0,1,240,0,false,3
+211,3,Blooming Knife III,196,140,0,0,1,270,0,false,4
+212,3,Datura Blossom I,210,150,0,0,1,330,0,false,5
+213,3,Datura Blossom II,224,160,0,0,1,360,0,false,6
+214,3,Datura Blossom III,238,170,0,0,1,390,0,false,6
+215,3,Girros Knife I,168,120,0,0,3,120,10,false,3
+216,3,Girros Knife II,182,130,0,0,3,150,10,false,4
+217,3,Malady's Tabar I,196,140,0,0,3,180,20,false,5
+218,3,Malady's Tabar II,210,150,0,0,3,210,20,false,6
+219,3,Malady's Tabar III,224,160,0,0,3,240,20,false,6
+220,3,Bone Kukri I,140,100,0,0,0,0,0,false,1
+221,3,Bone Kukri II,154,110,0,0,0,0,0,false,1
+222,3,Bone Kukri III,168,120,0,0,0,0,0,false,2
+223,3,Chief Kukri I,196,140,0,0,0,0,0,false,3
+224,3,Chief Kukri II,210,150,0,0,0,0,0,false,4
+225,3,Chief Kukri III,224,160,0,0,3,180,0,true,5
+226,3,Grand Barong I,238,170,0,0,3,240,0,true,6
+227,3,Grand Barong II,266,190,0,0,3,300,0,true,6
+228,3,Spiked Edge I,182,130,0,0,2,120,0,false,3
+229,3,Spiked Edge II,196,140,0,0,2,120,0,false,4
+230,3,Baan Claw I,238,170,0,0,2,150,0,false,5
+231,3,Baan Claw II,252,180,0,0,2,180,0,false,6
+232,3,Baan Claw III,266,190,0,0,2,210,0,false,6
+233,3,Jagras Edge I,168,120,0,0,0,0,0,false,2
+234,3,Jagras Edge II,196,140,0,0,0,0,0,false,3
+235,3,Jagras Edge III,210,150,0,0,0,0,0,false,4
+236,3,Jagras Garotte I,238,170,2,300,0,0,0,true,5
+237,3,Jagras Garotte II,252,180,2,330,0,0,0,true,6
+238,3,Jagras Garotte III,266,190,2,360,0,0,0,true,6
+239,3,Thunder Edge I,182,130,3,90,0,0,0,false,3
+240,3,Thunder Edge II,210,150,3,120,0,0,0,false,4
+241,3,Lightning Nemesis I,224,160,3,150,0,0,0,false,5
+242,3,Lightning Nemesis II,252,180,3,180,0,0,0,false,6
+243,3,Lightning Nemesis III,266,190,3,210,0,0,0,false,6
+244,3,Carapace Edge I,182,130,0,0,0,0,0,false,2
+245,3,Carapace Edge II,196,140,0,0,0,0,0,false,3
+246,3,Carapace Edge III,224,160,0,0,0,0,0,false,4
+247,3,Barroth Club I,252,180,0,0,3,120,0,true,5
+248,3,Barroth Club II,266,190,0,0,3,150,0,true,6
+249,3,Barroth Club III,294,210,0,0,3,180,0,true,6
+250,3,Blazing Edge I,196,140,1,150,0,0,-20,false,3
+251,3,Blazing Edge II,224,160,1,180,0,0,-20,false,4
+252,3,Flammensucher,266,190,1,210,0,0,-20,false,5
+253,3,Gnashing Flammensucher,294,210,1,240,0,0,-20,false,7
+254,3,Dragonbone Sword I,140,100,5,270,0,0,0,false,3
+255,3,Dragonbone Sword II,154,110,5,330,0,0,0,false,4
+256,3,Dragonbone Sword III,196,140,5,450,0,0,0,false,6
+257,3,Fulminator,154,110,3,270,0,0,0,false,4
+258,3,Thunderbolt Sword I,210,150,3,300,0,0,0,false,6
+259,3,Thunderbolt Sword II,224,160,3,360,0,0,0,false,7
+260,3,Blacksteel Sword I,140,100,5,120,0,0,0,false,5
+261,3,Blacksteel Sword II,154,110,5,150,0,0,0,false,6
+262,3,Teostra's Spada,252,180,0,0,4,210,0,false,7
+263,3,Teostra's Emblem,266,190,0,0,4,240,0,false,8
+264,3,Xeno Mabura,238,170,5,270,0,0,15,false,8
+265,4,Matched Slicers I,112,80,0,0,0,0,0,false,1
+266,4,Matched Slicers II,126,90,0,0,0,0,0,false,1
+267,4,Matched Slicers III,140,100,0,0,0,0,0,false,2
+268,4,Dual Slicers I,154,110,0,0,0,0,0,false,3
+269,4,Dual Slicers II,182,130,0,0,0,0,0,false,4
+270,4,Dual Slicers III,196,140,0,0,1,210,0,true,5
+271,4,Chrome Slicers I,224,160,0,0,1,240,0,true,6
+272,4,Chrome Slicers II,252,180,0,0,1,270,0,true,6
+273,4,Nergal Gouge,280,200,5,90,0,0,0,false,7
+274,4,Decimation Claws,294,210,5,120,0,0,0,false,8
+275,4,Luminous Daggers I,168,120,0,0,0,0,0,false,3
+276,4,Luminous Daggers II,196,140,0,0,0,0,0,false,4
+277,4,Dual Destroyers I,224,160,3,120,0,0,0,true,5
+278,4,Dual Destroyers II,238,170,3,150,0,0,0,true,6
+279,4,Dual Destroyers III,252,180,3,210,0,0,0,true,6
+280,4,Rookslayer Handaxes,252,180,0,0,4,120,-10,false,6
+281,4,Bazelhawk Rookslayer,280,200,0,0,4,150,-10,false,8
+282,4,Freeze Daggers I,182,130,4,60,0,0,0,false,4
+283,4,Freeze Daggers II,210,150,4,60,0,0,0,false,5
+284,4,Freeze Chain I,238,170,4,120,0,0,0,false,6
+285,4,Freeze Chain II,252,180,4,150,0,0,0,false,6
+286,4,Rending Beaks I,154,110,0,0,0,0,15,false,2
+287,4,Rending Beaks II,168,120,0,0,0,0,15,false,3
+288,4,Rending Beaks III,182,130,0,0,0,0,15,false,4
+289,4,Arcanaria I,210,150,0,0,2,90,20,true,5
+290,4,Arcanaria II,224,160,0,0,2,90,20,true,6
+291,4,Arcanaria III,238,170,0,0,2,120,20,true,6
+292,4,Sworn Rapiers,182,130,2,90,0,0,0,false,3
+293,4,Sworn Rapiers+,210,150,2,90,0,0,0,false,5
+294,4,Holy Sabers,252,180,2,120,0,0,0,false,2
+295,4,Bone Hachets I,140,100,0,0,0,0,0,false,1
+296,4,Bone Hachets II,154,110,0,0,0,0,0,false,1
+297,4,Bone Hachets III,168,120,0,0,0,0,0,false,2
+298,4,Wild Hachets I,196,140,0,0,0,0,0,false,3
+299,4,Wild Hachets II,210,150,0,0,0,0,0,false,4
+300,4,Wild Hachets III,224,160,0,0,4,120,0,true,5
+301,4,Strong Hatchets I,238,170,0,0,4,150,0,true,6
+302,4,Strong Hatchets II,266,190,0,0,4,180,0,true,6
+303,4,Blazing Hachets I,196,140,1,90,0,0,-20,false,3
+304,4,Blazing Hachets II,210,150,1,120,0,0,-20,false,4
+305,4,Anja Cyclone I,238,170,1,150,0,0,-20,false,5
+306,4,Anja Cyclone II,266,190,1,180,0,0,-20,false,6
+307,4,Anja Cyclone III,294,210,1,210,0,0,-20,false,7
+308,4,Diablos Hachets I,224,160,0,0,0,0,-10,false,4
+309,4,Diablos Hachets II,266,190,4,90,0,0,-10,true,5
+310,4,Diablos Clubs I,294,210,4,90,0,0,-10,true,6
+311,4,Diablos Clubs II,322,230,4,90,0,0,-10,true,7
+312,4,Madness Pangas I,154,110,2,90,0,0,0,false,2
+313,4,Madness Pangas II,182,130,2,90,0,0,0,false,3
+314,4,Madness Pangas III,210,150,2,120,0,0,0,false,4
+315,4,Jyura Hatchets I,238,170,2,150,0,0,0,false,5
+316,4,Jyura Hatchets II,252,180,2,180,0,0,0,false,6
+317,4,Jyura Hatchets III,266,190,2,210,0,0,0,false,6
+318,4,Lava Cyclone I,252,180,1,120,0,0,0,false,6
+319,4,Lava Cyclone II,252,180,1,150,0,0,0,false,7
+320,4,Taurus Pangas I,168,120,0,0,0,0,0,false,3
+321,4,Taurus Pangas II,182,130,0,0,0,0,0,false,4
+322,4,Dark Ripper I,196,140,0,0,3,90,0,true,5
+323,4,Dark Ripper II,210,150,0,0,3,90,0,true,6
+324,4,Dark Ripper III,224,160,0,0,3,90,0,true,6
+325,4,Pulsar Hachets I,154,110,3,60,0,0,10,false,2
+326,4,Pulsar Hachets II,168,120,3,60,0,0,10,false,3
+327,4,Pulsar Hachets III,196,140,3,60,0,0,10,false,4
+328,4,Kadachi Claws I,224,160,3,90,0,0,10,false,5
+329,4,Kadachi Claws II,238,170,3,120,0,0,10,false,6
+330,4,Kadachi Claws III,252,180,3,150,0,0,10,false,6
+331,4,Garon Hatchets I,182,130,0,0,0,0,20,false,4
+332,4,Garon Hatchets II,196,140,1,180,0,0,20,true,5
+333,4,Blood-drinker Chainblade,210,150,1,180,0,0,20,true,6
+334,4,Sin,224,160,1,180,0,0,20,true,8
+335,4,Dragonbone Twinblades I,140,100,5,120,0,0,0,false,3
+336,4,Dragonbone Twinblades II,168,120,5,120,0,0,0,false,4
+337,4,Enduring Schism,196,140,5,270,0,0,0,false,7
+338,4,Kirin Bolts,154,110,3,210,0,0,0,false,4
+339,4,Kirin Bolts+,196,140,3,240,0,0,0,false,7
+340,4,Monarch,224,160,3,270,0,0,0,false,8
+341,4,Magda Ungulae I,224,160,0,0,4,180,-20,false,5
+342,4,Magda Ungulae II,308,220,0,0,4,210,-20,false,7
+343,4,Blacksteel Twins I,140,100,5,90,0,0,0,false,5
+344,4,Blacksteel Twins II,154,110,5,120,0,0,0,false,6
+345,4,Twin Nails,238,170,4,210,0,0,0,false,7
+346,4,Fire and Ice,252,180,4,240,0,0,0,false,8
+347,4,Xeno Raqs,238,170,5,150,0,0,0,false,8
+348,5,Iron Katana I,264,80,0,0,0,0,0,false,1
+349,5,Iron Katana II,297,90,0,0,0,0,0,false,1
+350,5,Iron Katana III,330,100,0,0,0,0,0,false,2
+351,5,Iron Grace I,363,110,0,0,0,0,0,false,3
+352,5,Iron Grace II,429,130,0,0,0,0,0,false,4
+353,5,Iron Grace III,462,140,2,120,0,0,0,true,5
+354,5,Iron Gospel I,528,160,2,150,0,0,0,true,6
+355,5,Iron Gospel II,594,180,2,180,0,0,0,true,6
+356,5,Nergal Reaver,627,190,5,90,0,0,0,false,7
+357,5,Extermination's Edge,693,210,5,120,0,0,0,false,8
+358,5,Flickering Glow I,429,130,0,0,0,0,0,false,3
+359,5,Flickering Glow II,462,140,0,0,0,0,0,false,4
+360,5,Dazzling Flash I,528,160,3,240,0,0,0,true,5
+361,5,Dazzling Flash II,561,170,3,300,0,0,0,true,6
+362,5,Dazzling Flash III,594,180,3,360,0,0,0,true,6
+363,5,First Dance I,330,100,0,0,0,0,15,false,2
+364,5,First Dance II,363,110,0,0,0,0,15,false,3
+365,5,First Dance III,429,130,0,0,0,0,15,false,4
+366,5,Last Dance I,495,150,0,0,2,210,20,true,5
+367,5,Last Dance II,528,160,0,0,2,240,20,true,6
+368,5,Last Dance III,561,170,0,0,2,270,20,true,6
+369,5,Brazenridge I,594,180,1,90,0,0,-10,false,6
+370,5,Brazenridge II,660,200,1,120,0,0,-10,false,7
+371,5,Wyvern Blade "Leaf",363,110,0,0,1,240,10,false,3
+372,5,Wyvern Blade "Verde",495,150,0,0,1,270,10,false,5
+373,5,Wyvern Blade "Holly",627,190,0,0,1,330,10,false,7
+374,5,Wyvern Blade "Fall",396,120,1,150,0,0,15,false,4
+375,5,Wyvern Blade "Blood",528,160,1,180,0,0,15,false,6
+376,5,Wyvern Blade "Azure",561,170,1,210,0,0,15,false,7
+377,5,Wyvern Blade "Indigo",627,190,1,240,0,0,15,false,8
+378,5,Bone Shotel I,297,90,0,0,0,0,0,false,1
+379,5,Bone Shotel II,330,100,0,0,0,0,0,false,1
+380,5,Bone Shotel III,396,120,0,0,0,0,0,false,2
+381,5,Hard Bone Shotel I,429,130,0,0,0,0,0,false,3
+382,5,Hard Bone Shotel II,495,150,0,0,0,0,0,false,4
+383,5,Hard Bone Shotel III,528,160,0,0,2,210,0,true,5
+384,5,Bone Reaper I,561,170,0,0,2,240,0,true,6
+385,5,Bone Reaper II,627,190,0,0,2,270,0,true,6
+386,5,Rookslayer Long Sword,561,170,0,0,4,150,-10,false,6
+387,5,Bazel Varga Rookslayer,660,200,0,0,4,210,-10,false,8
+388,5,Blazing Shotel I,462,140,1,150,0,0,-20,false,3
+389,5,Blazing Shotel II,528,160,1,210,0,0,-20,false,4
+390,5,Anja Scimitar I,594,180,1,270,0,0,-20,false,5
+391,5,Anja Scimitar II,660,200,1,330,0,0,-20,false,6
+392,5,Anja Scimitar III,693,210,1,390,0,0,-20,false,6
+393,5,Jyura Shotel I,396,120,2,150,0,0,0,false,2
+394,5,Jyura Shotel II,429,130,2,180,0,0,0,false,3
+395,5,Jyura Shotel III,462,140,2,210,0,0,0,false,4
+396,5,Dipterus I,495,150,2,240,0,0,0,false,5
+397,5,Dipterus II,561,170,2,300,0,0,0,false,6
+398,5,Dipterus III,627,190,2,360,0,0,0,false,6
+399,5,Hazak Grosser I,627,190,5,210,0,0,0,false,7
+400,5,Hazak Grosser II,660,200,5,270,0,0,0,false,7
+401,5,Pulsar Shotel I,363,110,3,120,0,0,10,false,3
+402,5,Pulsar Shotel II,396,120,3,150,0,0,10,false,3
+403,5,Pulsar Shotel III,462,140,3,180,0,0,10,false,4
+404,5,Kadachi Fang I,528,160,3,210,0,0,15,false,5
+405,5,Kadachi Fang II,561,170,3,240,0,0,15,false,6
+406,5,Kadachi Fang III,594,180,3,270,0,0,15,false,6
+407,5,Glacial Shotel I,429,130,4,210,0,0,0,false,4
+408,5,Glacial Shotel II,462,140,4,240,0,0,0,false,5
+409,5,Stealer,495,150,4,300,0,0,0,false,6
+410,5,Legia Stealer,528,160,4,360,0,0,0,false,8
+411,5,Dark Shotel I,396,120,0,0,0,0,0,false,3
+412,5,Dark Shotel II,429,130,0,0,0,0,0,false,4
+413,5,Dark Scimitar I,462,140,0,0,3,180,0,true,5
+414,5,Dark Scimitar II,495,150,0,0,3,210,0,true,6
+415,5,Dark Scimitar III,528,160,0,0,3,240,0,true,6
+416,5,Dragonbone Stabber I,330,100,5,270,0,0,0,false,3
+417,5,Dragonbone Stabber II,363,110,5,330,0,0,0,false,4
+418,5,Dragonbone Stabber III,528,160,5,420,0,0,0,false,6
+419,5,Magda Facultas I,528,160,0,0,4,300,-20,false,5
+420,5,Magda Facultas II,726,220,0,0,4,360,-20,false,7
+421,5,Blacksteel Long Sword I,330,100,5,120,0,0,0,false,5
+422,5,Blacksteel Long Sword II,363,110,5,150,0,0,0,false,6
+423,5,Imperial Saber,561,170,0,0,4,300,0,false,7
+424,5,Imperial Shimmer,627,190,0,0,4,300,0,false,8
+425,5,Xeno Cypher ,594,180,5,180,0,0,15,false,8
+426,5,Supermacy Blade,561,170,5,120,0,0,0,true,6
+427,5,Divine Slasher,693,210,5,150,0,0,0,true,8
+428,5,Azure Star Blade,363,110,2,120,0,0,20,false,3
+429,6,Metal Bagpipe I,336,80,0,0,0,0,0,false,1
+430,6,Metal Bagpipe II,378,90,0,0,0,0,0,false,1
+431,6,Metal Bagpipe III,420,100,0,0,0,0,0,false,2
+432,6,Great Bagpipe I,462,110,0,0,0,0,0,false,3
+433,6,Great Bagpipe II,546,130,0,0,0,0,0,false,4
+434,6,Great Bagpipe III,588,140,0,0,3,210,0,true,5
+435,6,Fortissimo I,672,160,0,0,3,240,0,true,6
+436,6,Fortissimo II,756,180,0,0,3,270,0,true,6
+437,6,Nergal Groove,840,200,5,120,0,0,0,false,7
+438,6,Desolation's Overture,882,210,5,150,0,0,0,false,8
+439,6,Thunder Gaida I,504,120,3,120,0,0,0,false,3
+440,6,Thunder Gaida II,546,130,3,150,0,0,0,false,4
+441,6,Lightning Drum I,630,150,3,180,0,0,0,false,5
+442,6,Lightning Drum II,714,170,3,210,0,0,0,false,6
+443,6,Lightning Drum III,756,180,3,240,0,0,0,false,6
+444,6,Kulu Duda I,420,100,0,0,0,0,15,false,2
+445,6,Kulu Duda II,504,120,0,0,0,0,15,false,3
+446,6,Kulu Duda III,588,140,0,0,0,0,15,false,4
+447,6,Dancing Davul I,630,150,0,0,2,240,25,true,5
+448,6,Dancing Davul II,672,160,0,0,2,300,25,true,6
+449,6,Dancing Davul III,714,170,0,0,2,360,25,true,6
+450,6,Valkyrie Chordmaker,462,110,1,150,0,0,15,false,3
+451,6,Queen Chordmaker,630,150,1,180,0,0,15,false,5
+452,6,Coral Chordmaker,714,170,1,210,0,0,25,false,6
+453,6,Royal Chordmaker,798,190,1,240,0,0,25,false,7
+454,6,Aqua Bagpipe I,420,100,2,120,0,0,0,false,2
+455,6,Aqua Bagpipe II,504,120,2,150,0,0,0,false,3
+456,6,Aqua Bagpipe III,546,130,2,180,0,0,0,false,4
+457,6,Water Tamtam I,588,140,2,210,0,0,0,false,5
+458,6,Water Tamtam II,672,160,2,240,0,0,0,false,6
+459,6,Water Tamtam III,756,180,2,270,0,0,0,false,6
+460,6,Glacial Bagpipe I,546,130,4,240,0,0,0,false,4
+461,6,Glacial Bagpipe II,588,140,4,300,0,0,0,false,5
+462,6,Sectored,630,150,4,330,0,0,0,false,6
+463,6,Legia Sectored,672,160,4,360,0,0,0,false,7
+464,6,Bone Horn I,420,100,0,0,0,0,0,false,1
+465,6,Bone Horn II,462,110,0,0,0,0,0,false,1
+466,6,Bone Horn III,504,120,0,0,0,0,0,false,2
+467,6,Hard Bone Horn I,588,140,0,0,0,0,0,false,3
+468,6,Hard Bone Horn II,630,150,0,0,0,0,0,false,4
+469,6,Hard Bone Horn III,672,160,4,180,0,0,0,true,5
+470,6,Heavy Bone Horn I,714,170,4,210,0,0,0,true,6
+471,6,Heavy Bone Horn II,798,190,4,240,0,0,0,true,6
+472,6,Gama Horn I,756,180,0,0,4,120,0,false,6
+473,6,Gama Horn II,798,190,0,0,4,150,0,false,7
+474,6,Blazing Horn I,546,130,1,210,0,0,-20,false,3
+475,6,Blazing Horn II,630,150,1,240,0,0,-20,false,4
+476,6,Anja Barone I,672,160,1,270,0,0,-20,false,5
+477,6,Anja Barone II,798,190,1,330,0,0,-20,false,6
+478,6,Anja Barone III,882,210,1,450,0,0,-20,false,6
+479,6,Blooming Horn I,504,120,0,0,1,240,0,false,2
+480,6,Blooming Horn II,546,130,0,0,1,300,0,false,3
+481,6,Blooming Horn III,588,140,0,0,1,360,0,false,4
+482,6,Datura Horn I,630,150,0,0,1,420,0,false,5
+483,6,Datura Horn II,672,160,0,0,1,480,0,false,6
+484,6,Datura Horn III,714,170,0,0,1,540,0,false,6
+485,6,Lumu Horn I,546,130,0,0,0,0,10,false,3
+486,6,Lumu Horn II,588,140,0,0,0,0,10,false,4
+487,6,Lumu Barone I,630,150,2,420,0,0,10,false,5
+488,6,Lumu Barone II,672,160,2,480,0,0,10,false,6
+489,6,Lumu Barone III,714,170,2,570,0,0,10,false,6
+490,6,Rookslayer Drum,756,180,0,0,4,180,-10,false,6
+491,6,Bazelreid Rookslayer,840,200,0,0,4,210,-10,false,8
+492,6,Sonic Horn I,462,110,0,0,3,120,0,false,2
+493,6,Sonic Horn II,504,120,0,0,3,150,0,false,3
+494,6,Sonic Horn III,546,130,0,0,3,180,0,false,4
+495,6,Glass Royale,588,140,0,0,3,240,0,false,5
+496,6,Glass Royale+,630,150,0,0,3,270,0,false,6
+497,6,Queen Vespoid Horn,672,160,0,0,3,300,0,false,7
+498,6,Spiked Horn I,546,130,0,0,2,150,0,false,3
+499,6,Spiked Horn II,588,140,0,0,2,180,0,false,4
+500,6,Baan Horn I,672,160,0,0,2,210,0,false,5
+501,6,Baan Horn II,756,180,0,0,2,240,0,false,6
+502,6,Baan Horn III,798,190,0,0,2,270,0,false,6
+503,6,Dragonbone Auldhorn I,420,100,5,300,0,0,0,false,3
+504,6,Dragonbone Auldhorn II,462,110,5,360,0,0,0,false,4
+505,6,Dragonbone Auldhorn III,672,160,5,420,0,0,0,false,6
+506,6,Thundercry Horn ,504,120,3,390,0,0,0,false,4
+507,6,Thunderbolt Horn I,588,140,3,480,0,0,0,false,6
+508,6,Thunderbolt Horn II,672,160,3,540,0,0,0,false,7
+509,6,Blacksteel Dragonhorn I,420,100,5,120,0,0,0,false,5
+510,6,Blacksteel Dragonhorn II,462,110,5,150,0,0,0,false,6
+511,6,Teostra's Tiple,756,180,0,0,4,330,0,false,7
+512,6,Teostra's Orphée,798,190,0,0,4,390,0,false,8
+513,6,Xeno Manasheena,714,170,5,180,0,0,15,false,8
+514,7,Iron Lance I,184,80,0,0,0,0,0,false,1
+515,7,Iron Lance II,207,90,0,0,0,0,0,false,1
+516,7,Iron Lance III,230,100,0,0,0,0,0,false,2
+517,7,Steel Lance I,253,110,0,0,0,0,0,false,3
+518,7,Steel Lance II,299,130,0,0,0,0,0,false,4
+519,7,Steel Lance III,322,140,0,0,3,210,0,true,5
+520,7,Chrome Lance I,368,160,0,0,3,240,0,true,6
+521,7,Chrome Lance II,414,180,0,0,3,270,0,true,6
+522,7,Nergal Impaler,460,200,5,120,0,0,0,false,7
+523,7,Perdition's Hand,483,210,5,150,0,0,0,false,8
+524,7,Glacial Lance I,299,130,4,270,0,0,0,false,4
+525,7,Glacial Lance II,322,140,4,300,0,0,0,false,5
+526,7,Legiana Halberd I,345,150,4,330,0,0,0,false,6
+527,7,Legiana Halberd II,368,160,4,360,0,0,0,false,7
+528,7,Kulu Lance I,253,110,0,0,0,0,15,false,2
+529,7,Kulu Lance II,276,120,0,0,0,0,15,false,2
+530,7,Kulu Lance III,299,130,0,0,0,0,15,false,4
+531,7,Kulu Hasta I,345,150,0,0,2,300,25,true,5
+532,7,Kulu Hasta II,368,160,0,0,2,330,25,true,6
+533,7,Kulu Hasta III,391,170,0,0,2,360,25,true,6
+534,7,Gama Pilebunker I,368,160,0,0,4,180,0,false,6
+535,7,Gama Pilebunker II,391,170,0,0,4,210,0,false,7
+536,7,Thunder Lance I,276,120,3,120,0,0,0,false,3
+537,7,Thunder Lance II,322,140,3,150,0,0,0,false,4
+538,7,Lightning Spire I,368,160,3,180,0,0,0,false,5
+539,7,Lightning Spire II,391,170,3,210,0,0,0,false,6
+540,7,Lightning Spire III,414,180,3,240,0,0,0,false,6
+541,7,Blooming Lance I,230,100,0,0,1,240,0,false,2
+542,7,Blooming Lance II,253,110,0,0,1,300,0,false,3
+543,7,Blooming Lance III,299,130,0,0,1,360,0,false,4
+544,7,Datura Pike I,345,150,0,0,1,420,0,false,5
+545,7,Datura Pike II,368,160,0,0,1,480,0,false,6
+546,7,Datura Pike III,391,170,0,0,1,540,0,false,6
+547,7,Flame Lance I,299,130,1,180,0,0,10,false,4
+548,7,Flame Lance II,322,140,1,210,0,0,10,false,5
+549,7,Red Tail,391,170,1,240,0,0,10,false,6
+550,7,Blue Tail,414,180,1,210,0,0,20,false,7
+551,7,Blue Prominence,437,190,1,300,0,0,20,false,8
+552,7,Bone Lance I,207,90,0,0,0,0,0,false,1
+553,7,Bone Lance II,230,100,0,0,0,0,0,false,1
+554,7,Bone Lance III,253,110,0,0,0,0,0,false,2
+555,7,Hard Bone Lance I,322,140,0,0,0,0,0,false,3
+556,7,Hard Bone Lance II,345,150,0,0,0,0,0,false,4
+557,7,Hard Bone Lance III,368,160,0,0,1,180,0,true,5
+558,7,Heavy Bone Lance I,391,170,0,0,1,210,0,true,6
+559,7,Heavy Bone Lance II,437,190,0,0,1,240,0,true,6
+560,7,Hazak Wächter,437,190,5,240,0,0,0,false,7
+561,7,Love's Sorrow,460,200,5,270,0,0,0,false,8
+562,7,Taurus Lance I,276,120,0,0,0,0,0,false,3
+563,7,Taurus Lance II,299,130,0,0,0,0,0,false,4
+564,7,Dark Stinger I,322,140,0,0,4,180,0,true,5
+565,7,Dark Stinger II,345,150,0,0,4,210,0,true,6
+566,7,Dark Stinger III,368,160,0,0,4,240,0,true,6
+567,7,Carapace Lance I,253,110,0,0,0,0,-20,false,2
+568,7,Carapace Lance II,276,120,0,0,0,0,-20,false,3
+569,7,Carapace Lance III,345,150,0,0,0,0,-20,false,4
+570,7,Barroth Stinger I,391,170,0,0,3,300,-20,true,5
+571,7,Barroth Stinger II,437,190,0,0,3,330,-20,true,6
+572,7,Barroth Stinger III,460,200,0,0,3,390,-20,true,6
+573,7,Garon Lance I,299,130,0,0,0,0,15,false,4
+574,7,Garon Lance II,322,140,1,150,0,0,0,true,5
+575,7,Garon Dhara I,345,150,1,180,0,0,30,true,6
+576,7,Garon Dhara II,391,170,1,210,0,0,30,true,7
+577,7,Aqua Horn I,253,110,2,150,0,0,0,false,2
+578,7,Aqua Horn II,276,120,2,180,0,0,0,false,2
+579,7,Aqua Horn III,322,140,2,210,0,0,0,false,4
+580,7,Water Spike I,345,150,2,240,0,0,0,false,5
+581,7,Water Spike II,391,170,2,270,0,0,0,false,6
+582,7,Water Spike III,437,190,2,300,0,0,0,false,6
+583,7,Dragonbone Lance I,230,100,5,300,0,0,0,false,3
+584,7,Dragonbone Lance II,253,110,5,360,0,0,0,false,4
+585,7,Dragonbone Lance III,368,160,5,420,0,0,0,false,6
+586,7,Rookslayer Lance,414,180,0,0,4,180,-10,false,6
+587,7,Bazel Myniad Rookslayer,460,200,0,0,4,210,-10,false,8
+588,7,Thunderpike,253,110,3,420,0,0,0,false,4
+589,7,Thunderspear,345,150,3,480,0,0,10,false,7
+590,7,Thunderpiercer,368,160,3,540,0,0,10,false,8
+591,7,Blacksteel Lance I,230,100,5,120,0,0,0,false,5
+592,7,Blacksteel Lance II,253,110,5,150,0,0,0,false,6
+593,7,Icesteel Spear,391,170,4,210,0,0,10,false,7
+594,7,Daora's Fang,414,180,4,240,0,0,10,false,8
+595,7,Xeno Zauta,391,170,5,180,0,0,15,false,8
+596,7,Babel Spear,414,180,1,270,0,0,0,true,6
+597,7,Elder Babel Spear,460,200,1,330,0,0,0,true,8
+598,8,Iron Gunlance I,184,80,0,0,0,0,0,false,1
+599,8,Iron Gunlance II,207,90,0,0,0,0,0,false,1
+600,8,Iron Gunlance III,230,100,0,0,0,0,0,false,2
+601,8,Steel Gunlance I,253,110,0,0,0,0,0,false,3
+602,8,Steel Gunlance II,299,130,0,0,0,0,0,false,4
+603,8,Steel Gunlance III,322,140,0,0,0,0,0,false,5
+604,8,Chrome Gunlance I,368,160,0,0,4,240,0,true,6
+605,8,Chrome Gunlance II,414,180,0,0,4,270,0,true,6
+606,8,Nergal Ram,460,200,5,120,0,0,0,false,7
+607,8,Eradication Flame,483,210,5,150,0,0,0,false,8
+608,8,Pulsar Gunlance I,230,100,3,120,0,0,10,false,2
+609,8,Pulsar Gunlance II,253,110,3,150,0,0,10,false,3
+610,8,Pulsar Gunlance III,299,130,3,180,0,0,10,false,4
+611,8,Kadachi Striker,345,150,3,210,0,0,20,false,5
+612,8,Kadachi Striker+,391,170,3,240,0,0,20,false,6
+613,8,Mythic Kadachi Striker,414,180,3,270,0,0,20,false,7
+614,8,Rath Gunlance I,276,120,1,120,0,0,15,false,4
+615,8,Rath Gunlance II,322,140,1,150,0,0,15,false,5
+616,8,Red Rook,345,150,1,180,0,0,20,false,6
+617,8,Blue Rook,414,180,1,210,0,0,20,false,7
+618,8,Blue Chariot,437,190,1,240,0,0,20,false,8
+619,8,Princess Panoply,276,120,0,0,1,240,10,false,3
+620,8,Princess Panoply+,345,150,0,0,1,270,10,false,5
+621,8,Rose Burst,391,170,0,0,1,300,15,false,6
+622,8,Royal Burst,437,190,0,0,1,330,15,false,7
+623,8,Madness Gunlance I,253,110,2,210,0,0,0,false,2
+624,8,Madness Gunlance II,276,120,2,240,0,0,0,false,3
+625,8,Madness Gunlance III,299,130,2,270,0,0,0,false,4
+626,8,Jyura Blaster I,345,150,2,300,0,0,0,false,5
+627,8,Jyura Blaster II,368,160,2,330,0,0,0,false,6
+628,8,Jyura Blaster III,437,190,2,360,0,0,0,false,6
+629,8,Glacial Gunlance I,299,130,4,180,0,0,0,false,4
+630,8,Glacial Gunlance II,322,140,4,240,0,0,0,false,5
+631,8,Legiana Cannon I,345,150,4,300,0,0,0,false,6
+632,8,Legiana Cannon II,368,160,4,360,0,0,0,false,7
+633,8,Bone Gunlance I,207,90,0,0,0,0,0,false,1
+634,8,Bone Gunlance II,230,100,0,0,0,0,0,false,1
+635,8,Bone Gunlance III,253,110,0,0,0,0,0,false,2
+636,8,Bone Cannon I,276,120,0,0,0,0,0,false,3
+637,8,Bone Cannon II,322,140,0,0,0,0,0,false,4
+638,8,Bone Cannon III,368,160,3,210,0,0,0,true,5
+639,8,Great Bone Gunlance I,391,170,3,240,0,0,0,true,6
+640,8,Great Bone Gunlance II,437,190,3,270,0,0,0,true,6
+641,8,Bazel Buster I,437,190,0,0,4,180,-10,false,6
+642,8,Bazel Buster II,460,200,0,0,4,210,-10,false,7
+643,8,Jagras Gunlance I,253,110,0,0,0,0,0,false,2
+644,8,Jagras Gunlance II,276,120,0,0,0,0,0,false,3
+645,8,Jagras Gunlance III,322,140,0,0,0,0,0,false,4
+646,8,Glutton Gunlance I,345,150,0,0,2,240,0,true,5
+647,8,Glutton Gunlance II,437,190,0,0,2,270,0,true,6
+648,8,Glutton Gunlance III,437,190,0,0,2,300,0,true,6
+649,8,Girros Gunlance I,276,120,0,0,3,210,0,false,3
+650,8,Girros Gunlance II,299,130,0,0,3,270,0,false,4
+651,8,Deathfang Gunlance I,322,140,0,0,3,330,10,false,5
+652,8,Deathfang Gunlance II,345,150,0,0,3,390,10,false,6
+653,8,Deathfang Gunlance III,368,160,0,0,3,450,10,false,6
+654,8,Hazak Spysa I,437,190,5,240,0,0,0,false,7
+655,8,Hazak Spysa II,460,200,5,270,0,0,0,false,7
+656,8,Carapace Cannon I,276,120,0,0,0,0,-10,false,2
+657,8,Carapace Cannon II,299,130,0,0,0,0,-10,false,3
+658,8,Carapace Cannon III,345,150,0,0,0,0,-10,false,4
+659,8,Barroth Blaster I,391,170,0,0,3,270,-10,true,5
+660,8,Barroth Blaster II,437,190,0,0,3,330,-10,true,6
+661,8,Barroth Blaster III,460,200,0,0,3,390,-10,true,6
+662,8,Blazing Gunlance I,299,130,1,210,0,0,-20,false,3
+663,8,Blazing Gunlance II,322,140,1,240,0,0,-20,false,4
+664,8,Anja Cannon I,368,160,1,270,0,0,-20,false,5
+665,8,Anja Cannon II,414,180,1,330,0,0,-20,false,6
+666,8,Anja Cannon III,483,210,1,450,0,0,-20,false,6
+667,8,Dragonbone Gunlance I,230,100,5,360,0,0,0,false,3
+668,8,Dragonbone Gunlance II,253,110,5,390,0,0,0,false,4
+669,8,Dragonbone Gunlance III,368,160,5,420,0,0,0,false,6
+670,8,Magda Lahat,368,160,0,0,4,330,-10,false,5
+671,8,Earthshaker Magda Lahat,460,200,0,0,4,420,-10,false,8
+672,8,Blacksteel Gunlance I,230,100,5,120,0,0,0,false,5
+673,8,Blacksteel Gunlance II,253,110,5,150,0,0,0,false,6
+674,8,Icesteel Gunlance,391,170,4,210,0,0,10,false,7
+675,8,Daora's Brigia,414,180,4,240,0,0,10,false,8
+676,8,Xeno Hemta,391,170,5,180,0,0,15,false,8
+677,9,Proto Iron Axe I,280,80,0,0,0,0,0,false,1
+678,9,Proto Iron Axe II,315,90,0,0,0,0,0,false,1
+679,9,Proto Iron Axe III,350,100,0,0,0,0,0,false,2
+680,9,Improved Steel Axe I,385,110,0,0,0,0,0,false,3
+681,9,Improved Steel Axe II,455,130,0,0,0,0,0,false,4
+682,9,Improved Steel Axe III,490,140,0,0,1,300,0,true,5
+683,9,Perfected Alloy Axe I,560,160,0,0,1,360,0,true,6
+684,9,Perfected Alloy Axe II,630,180,0,0,1,420,0,true,6
+685,9,Nergal Gash,665,190,5,120,0,0,0,false,7
+686,9,Dying Light,700,200,5,150,0,0,0,false,8
+687,9,Glacial Axe I,455,130,4,210,0,0,0,false,4
+688,9,Glacial Axe II,490,140,4,240,0,0,0,false,5
+689,9,Frostreaver,525,150,4,270,0,0,0,false,6
+690,9,Legia Frostreaver,560,160,4,300,0,0,0,false,7
+691,9,Thunder Axe I,420,120,3,90,0,0,0,false,3
+692,9,Thunder Axe II,490,140,3,90,0,0,0,false,4
+693,9,Lightning Chopper I,560,160,3,120,0,0,0,false,5
+694,9,Lightning Chopper II,595,170,3,150,0,0,0,false,6
+695,9,Lightning Chopper III,630,180,3,180,0,0,0,false,6
+696,9,Motor Chopper I,630,180,1,120,0,0,0,false,6
+697,9,Motor Chopper II,735,210,1,120,0,0,0,false,7
+698,9,Jagras Axe I,385,110,0,0,0,0,0,false,2
+699,9,Jagras Axe II,420,120,0,0,0,0,0,false,3
+700,9,Jagras Axe III,490,140,0,0,0,0,0,false,4
+701,9,Jagras Rider I,560,160,0,0,2,180,0,true,5
+702,9,Jagras Rider II,630,180,0,0,2,210,0,true,6
+703,9,Jagras Rider III,665,190,0,0,2,240,0,true,6
+704,9,Bazel Rider I,665,190,0,0,4,150,-15,false,6
+705,9,Bazel Rider II,700,200,0,0,4,180,-15,false,7
+706,9,Rathalos Axe I,455,130,1,120,0,0,10,false,4
+707,9,Rathalos Axe II,490,140,1,120,0,0,10,false,4
+708,9,Rathbringer Axe I,560,160,1,150,0,0,15,false,6
+709,9,Rathbringer Axe II,665,190,1,150,0,0,15,false,7
+710,9,Bone Axe I,315,90,0,0,0,0,0,false,1
+711,9,Bone Axe II,350,100,0,0,0,0,0,false,1
+712,9,Bone Axe III,385,110,0,0,0,0,0,false,2
+713,9,Bone Smasher I,490,140,0,0,0,0,0,false,3
+714,9,Bone Smasher II,525,150,0,0,0,0,0,false,4
+715,9,Bone Smasher III,560,160,0,0,0,0,0,false,5
+716,9,Power Smasher I,595,170,0,0,0,0,0,false,6
+717,9,Power Smasher II,665,190,0,0,0,0,10,false,6
+718,9,Hazak Demios I,665,190,5,180,0,0,0,false,7
+719,9,Hazak Demios II,700,200,5,210,0,0,0,false,7
+720,9,Madness Axe I,385,110,2,150,0,0,0,false,2
+721,9,Madness Axe II,420,120,2,180,0,0,0,false,3
+722,9,Madness Axe III,490,140,2,210,0,0,0,false,4
+723,9,Jyura Drought I,560,160,2,240,0,0,0,false,5
+724,9,Jyura Drought II,630,180,2,270,0,0,0,false,6
+725,9,Jyura Drought III,665,190,2,300,0,0,0,false,7
+726,9,Lumu Axe I,420,120,0,0,0,0,10,false,3
+727,9,Lumu Axe II,490,140,0,0,0,0,10,false,4
+728,9,Lumu Smasher I,525,150,0,0,4,360,20,true,5
+729,9,Lumu Smasher II,560,160,0,0,4,390,20,true,6
+730,9,Lumu Smasher III,595,170,0,0,4,420,20,true,7
+731,9,Carapace Axe I,420,120,0,0,0,0,-20,false,2
+732,9,Carapace Axe II,490,140,0,0,0,0,-20,false,3
+733,9,Carapace Axe III,560,160,0,0,0,0,-20,false,5
+734,9,Barroth Grinder I,595,170,0,0,3,240,-20,true,5
+735,9,Barroth Grinder II,665,190,0,0,3,270,-20,true,6
+736,9,Barroth Grinder III,735,210,0,0,3,300,-20,true,6
+737,9,Diablos Axe I,595,170,0,0,0,0,-30,false,4
+738,9,Diablos Axe II,630,180,4,90,0,0,-30,true,5
+739,9,Axe Semper Tyrannis,735,210,4,120,0,0,-30,true,6
+740,9,Axe of Thanatos,770,220,4,150,0,0,-30,true,7
+741,9,Axe of Demons,805,230,4,180,0,0,-30,true,8
+742,9,Flammenbeil,455,130,1,180,0,0,-20,false,3
+743,9,Flammenbeil+,560,160,1,240,0,0,-20,false,5
+744,9,Gnashing Flammenbeil,735,210,1,300,0,0,-20,false,7
+745,9,Dragonbone Slicer I,350,100,5,210,0,0,0,false,3
+746,9,Dragonbone Slicer II,385,110,5,270,0,0,0,false,4
+747,9,Dragonbone Slicer III,560,160,5,330,0,0,0,false,6
+748,9,Peal,385,110,3,360,0,0,0,false,4
+749,9,Peal+,490,140,3,390,0,0,0,false,7
+750,9,Kirin Thunderpeal,560,160,3,420,0,0,0,false,8
+751,9,Blacksteel Switch Axe I,350,100,5,120,0,0,15,false,5
+752,9,Blacksteel Switch Axe II,385,110,5,150,0,0,15,false,6
+753,9,Teostra's Arx,630,180,0,0,4,300,0,false,7
+754,9,Teostra's Castle,665,190,0,0,4,300,0,false,8
+755,9,Xeno Martshu,595,170,5,150,0,0,0,false,8
+756,10,Proto Commision Axe I,288,80,0,0,0,0,0,false,1
+757,10,Proto Commision Axe II,324,90,0,0,0,0,0,false,1
+758,10,Proto Commision Axe III,360,100,0,0,0,0,0,false,2
+759,10,Elite Commision Axe I,396,110,0,0,0,0,0,false,3
+760,10,Elite Commision Axe II,468,130,0,0,0,0,0,false,4
+761,10,Elite Commision Axe III,504,140,3,120,0,0,0,true,5
+762,10,Chrome Guardian I,576,160,3,150,0,0,0,true,6
+763,10,Chrome Guardian II,648,180,3,270,0,0,0,true,6
+764,10,Nergal Lacerator,720,200,5,120,0,0,0,false,7
+765,10,Devastation's Thorns,756,210,5,150,0,0,0,false,8
+766,10,Rathsblade I,432,120,1,150,0,0,10,false,4
+767,10,Rathsblade II,576,160,1,180,0,0,10,false,5
+768,10,Axelion Blade,612,170,1,210,0,0,20,false,6
+769,10,Halberion Blade,684,190,1,240,0,0,20,false,7
+770,10,Mudslide Blade I,396,110,2,120,0,0,0,false,3
+771,10,Mudslide Blade II,432,120,2,150,0,0,0,false,3
+772,10,Mudslide Blade III,504,140,2,180,0,0,0,false,5
+773,10,Jyura Depth I,576,160,2,210,0,0,0,false,5
+774,10,Jyura Depth II,648,180,2,240,0,0,0,false,6
+775,10,Jyura Depth III,684,190,2,270,0,0,0,false,6
+776,10,Everfrost Blade I,504,140,4,150,0,0,0,false,4
+777,10,Everfrost Blade II,540,150,4,180,0,0,0,false,5
+778,10,Gigafrost I,576,160,4,210,0,0,0,false,6
+779,10,Gigafrost II,612,170,4,240,0,0,0,false,6
+780,10,Dear Lutemis,468,130,0,0,1,240,0,false,3
+781,10,Dear Lutemia,540,150,0,0,1,270,0,false,5
+782,10,Dear Hecatel,612,170,0,0,1,300,0,false,6
+783,10,Dear Hecatelia,684,190,0,0,1,330,0,false,7
+784,10,Bone Strongarm I,324,90,0,0,0,0,0,false,1
+785,10,Bone Strongarm II,360,100,0,0,0,0,0,false,1
+786,10,Bone Strongarm III,396,110,0,0,0,0,0,false,2
+787,10,Hard Bone Strongarm I,432,120,0,0,0,0,0,false,3
+788,10,Hard Bone Strongarm II,504,140,0,0,0,0,0,false,4
+789,10,Hard Bone Strongarm III,576,160,0,0,4,180,0,true,5
+790,10,Mighty Strongarm I,612,170,0,0,4,210,0,true,6
+791,10,Mighty Strongarm II,684,190,0,0,4,240,0,true,6
+792,10,Diablos Wall I,612,170,0,0,0,0,-30,false,4
+793,10,Diablos Wall II,684,190,4,90,0,0,-30,true,5
+794,10,Diablos Tyrannis I,756,210,4,120,0,0,-30,true,6
+795,10,Diablos Tyrannis II,828,230,4,180,0,0,-30,true,7
+796,10,Jagras Strongarm I,396,110,0,0,0,0,0,false,2
+797,10,Jagras Strongarm II,432,120,0,0,0,0,0,false,3
+798,10,Jagras Strongarm III,468,130,0,0,0,0,0,false,4
+799,10,Jagras Escudo I,540,150,0,0,2,120,0,true,5
+800,10,Jagras Escudo II,648,180,0,0,2,150,0,true,6
+801,10,Jagras Escudo III,684,190,0,0,2,180,0,true,6
+802,10,Gama Silt I,576,160,0,0,4,150,0,false,6
+803,10,Gama Silt II,612,170,0,0,4,180,0,false,7
+804,10,Girros Strongarm I,432,120,0,0,3,180,15,false,3
+805,10,Girros Strongarm II,468,130,0,0,3,210,15,false,4
+806,10,Girros Nadja I,504,140,0,0,3,240,20,false,5
+807,10,Girros Nadja II,540,150,0,0,3,270,20,false,6
+808,10,Girros Nadja III,576,160,0,0,3,300,20,false,6
+809,10,Hazak Aspida I,648,180,5,210,0,0,0,false,7
+810,10,Hazak Aspida II,684,190,5,270,0,0,0,false,7
+811,10,Pulsar Strongarm I,396,110,3,90,0,0,10,false,2
+812,10,Pulsar Strongarm II,432,120,3,120,0,0,10,false,3
+813,10,Pulsar Strongarm III,468,130,3,120,0,0,10,false,4
+814,10,Kadachi Kaina I,504,140,3,150,0,0,15,false,5
+815,10,Kadachi Kaina II,576,160,3,180,0,0,15,false,6
+816,10,Kadachi Kaina III,648,180,3,210,0,0,15,false,6
+817,10,Garon Strongarm I,468,130,0,0,0,0,20,false,4
+818,10,Garon Strongarm II,504,140,1,120,0,0,20,true,5
+819,10,Hate's Undying Flame,540,150,1,150,0,0,25,true,6
+820,10,Odium,576,160,1,180,0,0,25,true,8
+821,10,Dragonbone Cutter I,360,100,5,270,0,0,0,false,3
+822,10,Dragonbone Cutter II,396,110,5,300,0,0,0,false,4
+823,10,Dragonbone Cutter III,576,160,5,360,0,0,0,false,6
+824,10,Magda Manus,576,160,0,0,4,180,-10,false,5
+825,10,Avenging Magda Manus,756,210,0,0,4,210,-10,false,8
+826,10,Blacksteel Charger I,360,100,5,120,0,0,0,false,5
+827,10,Blacksteel Charger II,396,110,5,150,0,0,0,false,6
+828,10,Daora's Casca,612,170,4,150,0,0,10,false,7
+829,10,Daora's Thwartoise,648,180,4,180,0,0,15,false,8
+830,10,Xeno Ra'atz,648,180,5,180,0,0,15,false,8
+831,11,Iron Blade I,248,80,0,0,0,0,0,false,1
+832,11,Iron Blade II,279,90,0,0,0,0,0,false,1
+833,11,Iron Blade III,310,100,0,0,0,0,0,false,2
+834,11,Steel Blade I,341,110,0,0,0,0,0,false,3
+835,11,Steel Blade II,403,130,0,0,0,0,0,false,4
+836,11,Steel Blade III,434,140,0,0,4,210,0,true,5
+837,11,Chrome Blade I,496,160,0,0,4,240,0,true,6
+838,11,Chrome Blade II,558,180,0,0,4,270,0,true,6
+839,11,Nergal Reaper,620,200,5,120,0,0,0,false,7
+840,11,Catastrophe's Light,651,210,5,150,0,0,0,false,8
+841,11,Flame Glaive I,372,120,1,90,0,0,10,false,4
+842,11,Flame Glaive II,465,150,1,120,0,0,10,false,5
+843,11,Rathmaul,527,170,1,150,0,0,20,false,6
+844,11,Firedance Rathmaul,589,190,1,180,0,0,20,false,7
+845,11,Kulu Blade I,310,100,0,0,0,0,10,false,2
+846,11,Kulu Blade II,341,110,0,0,0,0,10,false,3
+847,11,Kulu Blade III,434,140,0,0,0,0,10,false,4
+848,11,Ya-Ku Wrath I,465,150,0,0,2,150,20,true,5
+849,11,Ya-Ku Wrath II,496,160,0,0,2,180,20,true,6
+850,11,Ya-Ku Wrath III,527,170,0,0,2,210,20,true,6
+851,11,Luminous Blade I,372,120,0,0,0,0,0,false,3
+852,11,Luminous Blade II,434,140,0,0,0,0,0,false,4
+853,11,Destroyer Bo I,496,160,3,240,0,0,0,false,5
+854,11,Destroyer Bo II,527,170,3,270,0,0,0,false,6
+855,11,Destroyer Bo III,558,180,3,300,0,0,0,false,6
+856,11,Frost Blade I,434,140,4,150,0,0,0,false,4
+857,11,Frost Blade II,465,150,4,180,0,0,0,false,4
+858,11,Freeze Gale I,496,160,4,210,0,0,0,false,6
+859,11,Freeze Gale II,527,170,4,240,0,0,0,false,6
+860,11,Blooming Glaive I,310,100,0,0,1,240,0,false,2
+861,11,Blooming Glaive II,341,110,0,0,1,270,0,false,3
+862,11,Blooming Glaive III,403,130,0,0,1,300,0,false,4
+863,11,Datura Blade I,465,150,0,0,1,330,0,false,5
+864,11,Datura Blade II,496,160,0,0,1,360,0,false,6
+865,11,Datura Blade III,527,170,0,0,1,390,0,false,6
+866,11,Gama Cane I,496,160,0,0,4,120,0,false,6
+867,11,Gama Cane II,527,170,0,0,4,150,0,false,7
+868,11,Bone Rod I,279,90,0,0,0,0,0,false,1
+869,11,Bone Rod II,310,100,0,0,0,0,0,false,1
+870,11,Bone Rod III,341,110,0,0,0,0,0,false,2
+871,11,Hard Bone Rod I,434,140,0,0,0,0,0,false,3
+872,11,Hard Bone Rod II,465,150,0,0,0,0,0,false,4
+873,11,Hard Bone Rod III,496,160,0,0,3,180,0,true,5
+874,11,Aerial Rod I,527,170,0,0,3,210,0,true,6
+875,11,Aerial Rod II,589,190,0,0,3,210,0,true,6
+876,11,Hazak Entoma I,589,190,5,150,0,0,0,false,7
+877,11,Hazak Entoma II,620,200,5,180,0,0,0,false,7
+878,11,Flammenkaefer,403,130,1,210,0,0,-20,false,3
+879,11,Flammenkaefer+,558,180,1,240,0,0,-20,false,5
+880,11,Gnashing Flammenkaefer,651,210,1,270,0,0,-20,false,7
+881,11,Aqua Rod I,341,110,2,60,0,0,0,false,2
+882,11,Aqua Rod II,372,120,2,90,0,0,0,false,3
+883,11,Aqua Rod III,434,140,2,120,0,0,0,false,4
+884,11,Water Glaive I,465,150,2,150,0,0,0,false,5
+885,11,Water Glaive II,527,170,2,180,0,0,0,false,6
+886,11,Water Glaive III,589,190,2,210,0,0,0,false,6
+887,11,Diablos Rod I,496,160,0,0,0,0,-30,false,4
+888,11,Diablos Rod II,620,200,4,120,0,0,-30,true,5
+889,11,Tyrannis Glaive I,682,220,4,150,0,0,-30,true,6
+890,11,Tyrannis Glaive II,713,230,4,180,0,0,-30,true,7
+891,11,Pulsar Rod I,341,110,3,90,0,0,10,false,2
+892,11,Pulsar Rod II,372,120,3,120,0,0,10,false,3
+893,11,Pulsar Rod III,434,140,3,150,0,0,10,false,4
+894,11,Kadachi Pillar I,465,150,3,180,0,0,10,false,5
+895,11,Kadachi Pillar II,527,170,3,210,0,0,10,false,6
+896,11,Kadachi Pillar III,558,180,3,240,0,0,10,false,6
+897,11,Garon Rod I,403,130,0,0,0,0,10,false,4
+898,11,Garon Rod II,434,140,1,90,0,0,10,true,5
+899,11,Temptation's Trident,465,150,1,120,0,0,20,true,6
+900,11,Vice,496,160,1,150,0,0,20,true,8
+901,11,Dragonbone Glaive I,310,100,5,300,0,0,0,false,3
+902,11,Dragonbone Glaive II,341,110,5,330,0,0,0,false,4
+903,11,Dragonbone Glaive III,496,160,5,390,0,0,0,false,6
+904,11,Indigo Flash,341,110,3,300,0,0,0,false,4
+905,11,Azure Bolt,434,140,3,330,0,0,0,false,7
+906,11,Verdant Levin,496,160,3,360,0,0,0,false,8
+907,11,Blacksteel Glaive I,310,100,5,60,0,0,0,false,5
+908,11,Blacksteel Glaive II,341,110,5,90,0,0,0,false,6
+909,11,Daora's Entom,527,170,4,150,0,0,10,false,7
+910,11,Daora's Tethidine,558,180,4,180,0,0,10,false,8
+911,11,Xeno Shmaena,558,180,5,120,0,0,15,false,8
+912,12,Iron Bow I,96,80,0,0,0,0,0,false,1
+913,12,Iron Bow II,108,90,0,0,0,0,0,false,1
+914,12,Iron Bow III,120,100,0,0,0,0,0,false,2
+915,12,Steel Bow I,132,110,0,0,0,0,0,false,3
+916,12,Steel Bow II,156,130,0,0,0,0,0,false,4
+917,12,Steel Bow III,168,140,3,90,0,0,0,true,5
+918,12,Alloy Bow I,180,150,3,120,0,0,0,true,6
+919,12,Alloy Bow II,204,170,3,150,0,0,0,true,6
+920,12,Nergal Whisper,228,190,5,120,0,0,0,false,7
+921,12,Doom's Shaft,240,200,5,150,0,0,0,false,8
+922,12,Kulu Arrow I,120,100,0,0,0,0,15,false,2
+923,12,Kulu Arrow II,132,110,0,0,0,0,15,false,3
+924,12,Kulu Arrow III,156,130,0,0,0,0,15,false,4
+925,12,Archer's Dance I,180,150,0,0,4,210,20,true,5
+926,12,Archer's Dance II,192,160,0,0,4,240,20,true,6
+927,12,Archer's Dance III,204,170,0,0,4,270,20,true,6
+928,12,Brazencord,204,170,1,120,0,0,0,false,6
+929,12,Gigacles,228,190,1,150,0,0,0,false,8
+930,12,Princess Arrow I,132,110,0,0,0,0,10,false,3
+931,12,Princess Arrow II,192,160,5,180,0,0,10,true,5
+932,12,Princess Arrow III,216,180,5,240,0,0,10,true,6
+933,12,Rathslinger I,144,120,1,150,0,0,15,false,4
+934,12,Rathslinger II,204,170,1,210,0,0,15,false,6
+935,12,Rathslinger III,216,180,1,240,0,0,15,false,7
+936,12,Aqua Arrow I,120,100,2,90,0,0,0,false,2
+937,12,Aqua Arrow II,132,110,2,120,0,0,0,false,3
+938,12,Aqua Arrow III,144,120,2,150,0,0,0,false,4
+939,12,Water Shot I,168,140,2,180,0,0,0,false,5
+940,12,Water Shot II,180,150,2,210,0,0,0,false,6
+941,12,Water Shot III,204,170,2,240,0,0,0,false,6
+942,12,Glacial Arrow I,144,120,4,270,0,0,0,false,4
+943,12,Glacial Arrow II,156,130,4,330,0,0,0,false,5
+944,12,Snowfletcher,168,140,4,360,0,0,0,false,6
+945,12,Legia Snowfletcher,180,150,4,390,0,0,0,false,8
+946,12,Hunter's Bow I,120,100,0,0,0,0,0,false,1
+947,12,Hunter's Bow II,132,110,0,0,0,0,0,false,1
+948,12,Hunter's Bow III,144,120,0,0,0,0,0,false,2
+949,12,Hunter's Stoutbow I,156,130,0,0,0,0,0,false,3
+950,12,Hunter's Stoutbow II,168,140,0,0,0,0,0,false,4
+951,12,Hunter's Stoutbow III,180,150,2,240,0,0,0,true,5
+952,12,Hunter's Proudbow I,192,160,2,300,0,0,0,true,6
+953,12,Hunter's Proudbow II,216,180,2,360,0,0,0,true,6
+954,12,Hazak Velos I,216,180,5,240,0,0,0,false,7
+955,12,Hazak Velos II,228,190,5,270,0,0,0,false,7
+956,12,Diablos Bow I,192,160,0,0,0,0,-30,false,4
+957,12,Diablos Bow II,216,180,4,60,0,0,-30,true,5
+958,12,Diablos Coilbender,240,200,4,90,0,0,-30,true,7
+959,12,Galebender,252,210,4,120,0,0,-30,true,7
+960,12,Cera Coilbender,264,220,4,150,0,0,-30,true,8
+961,12,Blooming Arch I,144,120,0,0,0,0,0,false,2
+962,12,Blooming Arch II,156,130,0,0,0,0,0,false,3
+963,12,Blooming Arch III,168,140,0,0,0,0,0,false,4
+964,12,Datura String I,180,150,0,0,4,180,0,true,5
+965,12,Datura String II,192,160,0,0,4,210,0,true,6
+966,12,Datura String III,204,170,0,0,4,240,0,true,6
+967,12,Blazing Bow I,156,130,1,210,0,0,-20,false,3
+968,12,Blazing Bow II,168,140,1,270,0,0,-20,false,4
+969,12,Anja Arch I,192,160,1,330,0,0,-20,false,5
+970,12,Anja Arch II,216,180,1,360,0,0,-20,false,6
+971,12,Anja Arch III,240,200,1,390,0,0,-20,false,6
+972,12,Pulsar Bow I,144,120,3,150,0,0,10,false,2
+973,12,Pulsar Bow II,156,130,3,180,0,0,10,false,3
+974,12,Pulsar Bow III,168,140,3,210,0,0,10,false,4
+975,12,Kadachi Strikebow,180,150,3,250,0,0,15,false,5
+976,12,Flying Kadachi Strikebow,204,170,3,270,0,0,15,false,7
+977,12,Dragonbone Bow I,120,100,5,300,0,0,0,false,3
+978,12,Dragonbone Bow II,132,110,5,360,0,0,0,false,4
+979,12,Dragonbone Bow III,180,150,5,420,0,0,0,false,6
+980,12,Blacksteel Bow I,120,100,5,120,0,0,0,false,5
+981,12,Blacksteel Bow II,132,110,5,150,0,0,0,false,6
+982,12,Icesteel Bow ,192,160,4,210,0,0,0,false,7
+983,12,Daora's Sagittarii,204,170,4,240,0,0,0,false,8
+984,12,Xeno Metora,204,170,5,180,0,0,15,false,8
+985,12,Cross Hunter's Bow,216,180,0,0,4,120,0,false,6
+986,12,Great Hunter's Bow,228,190,0,0,4,150,0,false,8
+987,13,Chain Blitz I,130,100,0,0,0,0,0,false,1
+988,13,Chain Blitz II,143,110,0,0,0,0,0,false,1
+989,13,Chain Blitz III,156,120,0,0,0,0,0,false,2
+990,13,High Chain Blitz I,169,130,0,0,0,0,0,false,3
+991,13,High Chain Blitz II,182,140,0,0,0,0,0,false,4
+992,13,High Chain Blitz III,195,150,0,0,0,0,0,false,5
+993,13,Cross Blitz I,208,160,0,0,0,0,0,false,6
+994,13,Cross Blitz II,234,180,0,0,0,0,0,false,6
+995,13,Nergal Spitter,247,190,0,0,0,0,0,false,7
+996,13,Cataclysm's Trigger,260,200,0,0,0,0,0,false,8
+997,13,Lumu Blitz I,169,130,0,0,0,0,10,false,3
+998,13,Lumu Blitz II,182,140,0,0,0,0,10,false,4
+999,13,Lumu Typhon I,195,150,0,0,0,0,15,false,5
+1000,13,Lumu Typhon II,208,160,0,0,0,0,15,false,6
+1001,13,Lumu Typhon III,221,170,0,0,0,0,15,false,7
+1002,13,Bazel Typhoon I,247,190,0,0,0,0,-10,false,6
+1003,13,Bazel Typhoon II,260,200,0,0,0,0,-10,false,7
+1004,13,Jagras Blitz I,169,130,0,0,0,0,0,false,2
+1005,13,Jagras Blitz II,182,140,0,0,0,0,0,false,3
+1006,13,Jagras Blitz III,195,150,0,0,0,0,0,false,4
+1007,13,Jagras Fire I,208,160,0,0,0,0,0,false,5
+1008,13,Jagras Fire II,234,180,0,0,0,0,0,false,6
+1009,13,Jagras Fire III,247,190,0,0,0,0,0,false,6
+1010,13,Flame Blitz I,195,150,0,0,0,0,10,false,4
+1011,13,Flame Blitz II,208,160,0,0,0,0,10,false,5
+1012,13,Rathbuster I,221,170,0,0,0,0,20,false,6
+1013,13,Rathbuster II,247,190,0,0,0,0,20,false,7
+1014,13,Thunder Blitz I,182,140,0,0,0,0,0,false,3
+1015,13,Thunder Blitz II,195,150,0,0,0,0,0,false,4
+1016,13,Lightning Blitz I,208,160,0,0,0,0,0,false,5
+1017,13,Lightning Blitz II,221,170,0,0,0,0,0,false,6
+1018,13,Lightning Blitz III,234,180,0,0,0,0,0,false,6
+1019,13,Snow Blitz I,182,140,0,0,0,0,0,false,4
+1020,13,Snow Blitz II,195,150,0,0,0,0,0,false,5
+1021,13,Frost Blitz I,221,170,0,0,0,0,0,false,6
+1022,13,Frost Blitz II,247,190,0,0,0,0,0,false,6
+1023,13,Hunter's Rifle I,143,110,0,0,0,0,0,false,1
+1024,13,Hunter's Rifle II,156,120,0,0,0,0,0,false,1
+1025,13,Hunter's Rifle III,169,130,0,0,0,0,0,false,2
+1026,13,Power Rifle I,182,140,0,0,0,0,0,false,3
+1027,13,Power Rifle II,195,150,0,0,0,0,0,false,4
+1028,13,Power Rifle III,208,160,0,0,0,0,0,false,5
+1029,13,Sniper Shot I,221,170,0,0,0,0,0,false,6
+1030,13,Sniper Shot II,247,190,0,0,0,0,0,false,6
+1031,13,Hazak Ereipia,247,190,0,0,0,0,0,false,7
+1032,13,Gulgoleth's Wail,260,200,0,0,0,0,0,false,8
+1033,13,Blazing Rifle I,195,150,0,0,0,0,-30,false,3
+1034,13,Blazing Rifle II,221,170,0,0,0,0,-30,false,4
+1035,13,Anja Buster I,234,180,0,0,0,0,-30,false,5
+1036,13,Anja Buster II,260,200,0,0,0,0,-30,false,6
+1037,13,Anja Buster III,273,210,0,0,0,0,-30,false,6
+1038,13,Madness Rifle I,169,130,0,0,0,0,0,false,2
+1039,13,Madness Rifle II,182,140,0,0,0,0,0,false,3
+1040,13,Madness Rifle III,195,150,0,0,0,0,0,false,4
+1041,13,Jyura Bullet I,208,160,0,0,0,0,0,false,5
+1042,13,Jyura Bullet II,234,180,0,0,0,0,0,false,6
+1043,13,Jyura Bullet III,247,190,0,0,0,0,0,false,6
+1044,13,Lava Bullet I,221,170,0,0,0,0,0,false,6
+1045,13,Lava Bullet II,234,180,0,0,0,0,0,false,7
+1046,13,Carapace Rifle I,169,130,0,0,0,0,-20,false,2
+1047,13,Carapace Rifle II,182,140,0,0,0,0,-20,false,3
+1048,13,Carapace Rifle III,208,160,0,0,0,0,-20,false,4
+1049,13,Barroth Shot I,234,180,0,0,0,0,-20,false,5
+1050,13,Barroth Shot II,247,190,0,0,0,0,-20,false,6
+1051,13,Barroth Shot III,260,200,0,0,0,0,-20,false,6
+1052,13,Garon Rifle I,195,150,0,0,0,0,15,false,4
+1053,13,Garon Rifle II,208,160,0,0,0,0,15,false,5
+1054,13,Fate's Ember,221,170,0,0,0,0,30,false,6
+1055,13,Karma,234,180,0,0,0,0,30,false,8
+1056,13,Dragonbone Bowgun I,130,100,0,0,0,0,0,false,3
+1057,13,Dragonbone Bowgun II,143,110,0,0,0,0,0,false,4
+1058,13,Dragonbone Bowgun III,208,160,0,0,0,0,0,false,6
+1059,13,Onigashima,208,160,0,0,0,0,0,false,7
+1060,13,Dai-Onigashima,221,170,0,0,0,0,0,false,8
+1061,13,Mythical Horn,143,110,0,0,0,0,0,false,4
+1062,13,Mythical Horn+,182,140,0,0,0,0,0,false,7
+1063,13,Mythical Three-Horn,208,160,0,0,0,0,0,false,8
+1064,13,Blacksteel Crossbow I,130,100,0,0,0,0,0,false,5
+1065,13,Blacksteel Crossbow II,143,110,0,0,0,0,0,false,6
+1066,13,Icesteel Wasp,221,170,0,0,0,0,10,false,7
+1067,13,Daora's Hornet,234,180,0,0,0,0,10,false,8
+1068,13,Xeno Neqiina,234,180,0,0,0,0,0,false,8
+1069,13,Cross Bowgun,234,180,0,0,0,0,0,false,6
+1070,13,Great Bowgun,260,200,0,0,0,0,0,false,8
+1071,14,Iron Assault I,150,100,0,0,0,0,0,false,1
+1072,14,Iron Assault II,165,110,0,0,0,0,0,false,1
+1073,14,Iron Assault III,180,120,0,0,0,0,0,false,2
+1074,14,Steel Assault I,195,130,0,0,0,0,0,false,3
+1075,14,Steel Assault II,210,140,0,0,0,0,0,false,4
+1076,14,Steel Assault III,225,150,0,0,0,0,0,false,5
+1077,14,Chrome Assault I,240,160,0,0,0,0,0,false,6
+1078,14,Chrome Assault II,255,170,0,0,0,0,0,false,6
+1079,14,Nergal Roar,270,180,0,0,0,0,0,false,7
+1080,14,Destruction's Fusillade,285,190,0,0,0,0,0,false,8
+1081,14,Aqua Assault I,180,120,0,0,0,0,0,false,2
+1082,14,Aqua Assault II,195,130,0,0,0,0,0,false,3
+1083,14,Aqua Assault III,210,140,0,0,0,0,0,false,4
+1084,14,Water Cannon I,225,150,0,0,0,0,0,false,5
+1085,14,Water Cannon II,240,160,0,0,0,0,0,false,6
+1086,14,Water Cannon III,255,170,0,0,0,0,0,false,6
+1087,14,Luminous Assault I,195,130,0,0,0,0,0,false,3
+1088,14,Luminous Assault II,210,140,0,0,0,0,0,false,4
+1089,14,Arma Destroyer I,225,150,0,0,0,0,0,false,4
+1090,14,Arma Destroyer II,240,160,0,0,0,0,0,false,6
+1091,14,Arma Destroyer III,255,170,0,0,0,0,0,false,6
+1092,14,Shattercryst,210,140,0,0,0,0,0,false,4
+1093,14,Shattercryst+,240,160,0,0,0,0,0,false,6
+1094,14,Legia Shattercryst,255,170,0,0,0,0,0,false,7
+1095,14,Jagras Assault I,180,120,0,0,0,0,0,false,2
+1096,14,Jagras Assault II,195,130,0,0,0,0,0,false,3
+1097,14,Jagras Assault III,210,140,0,0,0,0,0,false,4
+1098,14,Jagras Cannon I,240,160,0,0,0,0,0,false,5
+1099,14,Jagras Cannon II,255,170,0,0,0,0,0,false,6
+1100,14,Jagras Cannon III,270,180,0,0,0,0,0,false,7
+1101,14,Blazing Assault I,210,140,0,0,0,0,-20,false,3
+1102,14,Blazing Assault II,225,150,0,0,0,0,-20,false,4
+1103,14,Flammenkanone,255,170,0,0,0,0,-20,false,5
+1104,14,Gnashing Flammenkanone,300,200,0,0,0,0,-20,false,7
+1105,14,Bone Shooter I,150,100,0,0,0,0,0,false,1
+1106,14,Bone Shooter II,165,110,0,0,0,0,0,false,1
+1107,14,Bone Shooter III,195,130,0,0,0,0,0,false,2
+1108,14,Heavy Shooter I,210,140,0,0,0,0,0,false,3
+1109,14,Heavy Shooter II,225,150,0,0,0,0,0,false,4
+1110,14,Heavy Shooter III,240,160,0,0,0,0,0,false,5
+1111,14,Power Shooter I,255,170,0,0,0,0,0,false,6
+1112,14,Power Shooter II,270,180,0,0,0,0,0,false,6
+1113,14,Diablos Shooter I,240,160,0,0,0,0,-20,false,4
+1114,14,Diablos Shooter II,270,180,0,0,0,0,-20,false,5
+1115,14,Dual Threat,300,200,0,0,0,0,-20,false,6
+1116,14,Nero's Blazooka,315,210,0,0,0,0,-20,false,7
+1117,14,Griffon Blazooka,330,220,0,0,0,0,-20,false,8
+1118,14,Blooming Shooter I,180,120,0,0,0,0,0,false,2
+1119,14,Blooming Shooter II,195,130,0,0,0,0,0,false,3
+1120,14,Blooming Shooter III,210,140,0,0,0,0,0,false,4
+1121,14,Datura Blaster I,225,150,0,0,0,0,0,false,5
+1122,14,Datura Blaster II,240,160,0,0,0,0,0,false,6
+1123,14,Datura Blaster III,255,170,0,0,0,0,0,false,6
+1124,14,Spiked Shooter I,195,130,0,0,0,0,0,false,3
+1125,14,Spiked Shooter II,210,140,0,0,0,0,0,false,4
+1126,14,Baan Roar I,225,150,0,0,0,0,0,false,5
+1127,14,Baan Roar II,255,170,0,0,0,0,0,false,6
+1128,14,Baan Roar III,270,180,0,0,0,0,0,false,6
+1129,14,Gama Cannon I,240,160,0,0,0,0,0,false,6
+1130,14,Gama Cannon II,255,170,0,0,0,0,0,false,7
+1131,14,Pulsar Shooter I,180,120,0,0,0,0,10,false,2
+1132,14,Pulsar Shooter II,195,130,0,0,0,0,0,false,3
+1133,14,Pulsar Shooter III,210,140,0,0,0,0,0,false,4
+1134,14,Kadachi Lion I,225,150,0,0,0,0,15,false,5
+1135,14,Kadachi Lion II,240,160,0,0,0,0,15,false,6
+1136,14,Kadachi Lion III,255,170,0,0,0,0,15,false,6
+1137,14,Dragonbone Cannon I,150,100,0,0,0,0,0,false,3
+1138,14,Dragonbone Cannon II,210,140,0,0,0,0,0,false,4
+1139,14,Dragonbone Cannon III,255,170,0,0,0,0,0,false,6
+1140,14,Quickcaster,195,130,0,0,0,0,0,false,4
+1141,14,Quickcaster+,240,160,0,0,0,0,0,false,7
+1142,14,Quickquiver,255,170,0,0,0,0,0,false,8
+1143,14,Magda Gemitus I,240,160,0,0,0,0,-20,false,5
+1144,14,Magda Gemitus II,315,210,0,0,0,0,-20,false,7
+1145,14,Blacksteel Cannon I,150,100,0,0,0,0,0,false,5
+1146,14,Blacksteel Cannon II,165,110,0,0,0,0,0,false,6
+1147,14,Teostra's Artillery,255,170,0,0,0,0,0,false,7
+1148,14,Teostra's Flames,270,180,0,0,0,0,0,false,8
+1149,14,Xeno Jiiqa,255,170,0,0,0,0,0,false,8

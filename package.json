@@ -1,0 +1,23 @@
+{
+  "name": "mhw-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrentWest7190/mhw-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrentWest7190/mhw-db/issues"
+  },
+  "homepage": "https://github.com/TrentWest7190/mhw-db#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "fs-extra": "^5.0.0"
+  }
+}
